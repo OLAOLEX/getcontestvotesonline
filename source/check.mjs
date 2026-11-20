@@ -1,0 +1,22 @@
+import assert from 'node:assert/strict';
+import {readFileSync,readdirSync,existsSync} from 'node:fs';
+import {contestDetails,readDraft,prepareIntake} from './intake.mjs';
+import {planNumbers} from './planner.mjs';
+const valid={entry:'Demo & entry',name:'Demo User',email:'demo@example.com'};
+assert.match(prepareIntake(valid),/Preferred reply: Email/);
+assert.throws(()=>prepareIntake({...valid,name:' '}));
+assert.throws(()=>prepareIntake({...valid,email:'invalid'}));
+assert.throws(()=>prepareIntake({...valid,channel:'whatsapp'}));
+assert.match(prepareIntake({...valid,channel:'whatsapp',phone:'+2349048777608'}),/Preferred reply: WhatsApp/);
+assert.throws(()=>prepareIntake({...valid,phone:'09048777608'}));
+assert.throws(()=>contestDetails({...valid,quantity:'1.5'}));
+assert.throws(()=>contestDetails({...valid,quantity:'101',trial:true}));
+assert.equal(contestDetails({...valid,quantity:'100',trial:true}).quantity,'100');
+const raw=JSON.stringify({...valid,savedAt:1000,quantity:'500'});
+assert.equal(readDraft(raw,2000).quantity,'500');assert.equal(readDraft(raw,601001),null);assert.equal(readDraft(raw,999),null);assert.equal(readDraft('broken'),null);assert(!('email' in readDraft(raw,2000)));
+assert.deepEqual(planNumbers({quantity:'500',days:'5',rate:'0.2'}),{daily:100,budget:100});
+const pages=[];function visit(dir){for(const f of readdirSync(dir,{withFileTypes:true})){if(['.git','release','node_modules'].includes(f.name))continue;const p=dir+'/'+f.name;if(f.isDirectory())visit(p);else if(f.name==='index.html')pages.push(p);}}visit('.');
+const titles=new Set();let links=0;for(const p of pages){const s=readFileSync(p,'utf8');assert.equal((s.match(/<h1\b/g)||[]).length,1,p);assert.match(s,/noindex,nofollow/);const title=s.match(/<title>(.*?)<\/title>/s)[1];assert(!titles.has(title),p);titles.add(title);for(const m of s.matchAll(/<script type="application\/ld\+json">(.*?)<\/script>/gs))JSON.parse(m[1]);for(const m of s.matchAll(/(?:href|src)="([^\"]+)"/g)){if(!m[1].startsWith('/'))continue;const u=new URL(m[1],'https://getcontestvotesonline.com'),f='.'+u.pathname+(u.pathname.endsWith('/')?'index.html':'');assert(existsSync(f),p+' missing '+f);if(u.hash)assert(readFileSync(f,'utf8').includes('id="'+u.hash.slice(1)+'"'),p+' missing '+u.hash);links++;}}
+const home=readFileSync('index.html','utf8'),quote=readFileSync('request-quote/index.html','utf8');
+assert(home.includes('data-starter')&&!home.includes('data-intake'));assert(quote.includes('data-intake')&&quote.includes('name="email"')&&quote.includes('name="name"'));assert(!home.includes('Let’s look at your entry'));assert(!home.includes('Get my quote on WhatsApp'));assert(quote.includes('Nothing is sent automatically'));assert.equal(pages.length,11);
+console.log(`PASS: ${pages.length} pages, ${links} internal link/asset/anchor references; contact validation, trial cap, expiring contest-only draft, planner arithmetic and no fake send state.`);
