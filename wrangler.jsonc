@@ -2,9 +2,11 @@
   "name": "getcontestvotesonline",
   "account_id": "aa84f9088b5c8fd2539ed47df380a4c8",
   "compatibility_date": "2026-11-20",
-  "assets": { "directory": "./public", "not_found_handling": "404-page" },
+  "main": "worker.mjs",
+  "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": true, "not_found_handling": "404-page" },
   "workers_dev": false,
   "routes": [
-    { "pattern": "getcontestvotesonline.com", "custom_domain": true }
+    { "pattern": "getcontestvotesonline.com", "custom_domain": true },
+    { "pattern": "www.getcontestvotesonline.com", "custom_domain": true }
   ]
 }
