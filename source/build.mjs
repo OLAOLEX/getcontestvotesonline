@@ -53,6 +53,22 @@ pages['/request-quote/'][2]=pages['/request-quote/'][2]
  .replace('Email request delivery is being connected. You can review or copy your enquiry in this preview.','We receive your enquiry through Formspree and reply using your contact details.')
  .replace('<p class="fine">Not sent. Email delivery is not connected in this preview.</p>','<p class="fine" data-unsent>Check your details before sending. This is an enquiry, not an order or payment.</p><button class="button" type="button" data-send-email>Send quote request</button><p role="status" aria-live="polite" data-send-status></p>');
 pages['/privacy/'][2]=pages['/privacy/'][2].replace('An email form will be documented here when it is connected.','When you choose Send quote request, your name, reply email, contest details, optional contact information and request reference are sent to Formspree to process the enquiry for our team. Formspree acceptance confirms receipt by that provider, not email inbox delivery. See <a href="https://formspree.io/legal/privacy-policy/">Formspree’s privacy policy</a>.');
+// Keep the enquiry page focused on completing one form.
+const requestCard=pages['/request-quote/'][2].slice(pages['/request-quote/'][2].indexOf('<div class="quote-card">')).replace(/<\/section>$/,'');
+pages['/request-quote/'][2]='<section class="simple-request"><header class="request-intro"><h1>Get a contest vote quote</h1><p>Share your contest and contact details. We’ll reply with price and availability.</p></header>'+requestCard
+ .replace('<p class="eyebrow">YOUR REQUEST</p><h2>Get a contest vote quote.</h2>','')
+ .replace('<details open><summary>Entry and service details','<details><summary>More contest details')
+ .replace('Review your details, then send your request to our team. WhatsApp is also available. Nothing is sent automatically.','Nothing is sent automatically. Review before sending.')
+ .replace('Trial amount and eligibility depend on vote type, contest requirements and available time. We confirm terms before starting.','Trial availability depends on your contest. We’ll confirm the terms.')
+ +'<p class="request-alternative">Prefer to chat? <a href="'+wa+'" target="_blank" rel="noopener noreferrer">Contact us on WhatsApp</a></p></section>';
+pages['/'][2]=pages['/'][2]
+ .replace('The right support<br>for the actual ballot.','Choose your voting service')
+ .replace('A useful answer.<br>A clearer next step.','Contest guides')
+ .replace('Simple to start.<br>Clear before you pay.','How it works')
+ .replace('Start with the link. Choose how to contact us next.','Add your contest link to get started.')
+ .replace('GET A CONTEST VOTE QUOTE','GET STARTED')
+ .replace('Trial amount and eligibility depend on vote type, contest requirements and available time. We confirm terms before starting.','Trial subject to eligibility and available time.')
+ .replace(/<section class="section experience">[\s\S]*?<\/section>/,'<section class="section simple-assurance"><h2>Human support since 2020</h2><p>Worldwide contest support, custom quantities and campaign updates. We confirm price and timing before you order.</p><a class="text-link" href="/about/">About our team</a></section>');
 for(const [route,[title,desc,body]] of Object.entries(pages)){
  const dir='.'+route;await mkdir(dir,{recursive:true});const schema={'@context':'https://schema.org','@graph':[{'@type':'Organization','@id':origin+'/#organization',name:'Get Contest Votes Online',url:origin+'/'},{'@type':'WebSite',url:origin+'/',name:'Get Contest Votes Online',publisher:{'@id':origin+'/#organization'}}]};
  if(articles.some(([slug])=>route==='/blog/'+slug+'/'))schema['@graph'].push({'@type':'Article',headline:title.split(' | ')[0],datePublished:'2026-11-15',dateModified:'2026-11-15',author:{'@id':origin+'/#organization'},mainEntityOfPage:origin+route});
@@ -64,6 +80,7 @@ for(const [route,[title,desc,body]] of Object.entries(pages)){
  polished=polished.replace('<a class="floating" href="/request-quote/">Get a quote</a>','<aside class="contact-dock" aria-label="Contact options"><a class="dock-whatsapp" href="https://wa.me/2349048777608" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-12 7L3 20l1.5-5a8 8 0 1 1 15.5-3.5Z"/><path d="M9 7c-3 2 4 9 6 6l-2-1-1 1-2-2 1-1Z"/></svg><span>WhatsApp</span></a><a class="dock-quote" href="/request-quote/">Get a quote</a></aside>');
  polished=polished.replace('</head>','<meta property="og:type" content="'+(route.startsWith('/blog/')&&route!='/blog/'?'article':'website')+'"><meta property="og:image" content="'+origin+'/assets/contest-people.webp"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="'+origin+'/assets/contest-people.webp"><link rel="icon" type="image/png" href="/assets/logo-mark.png"><link rel="stylesheet" href="/polish.css"></head>');
  polished=polished.replace(/href="\/(site|forms|polish)\.css"/g,(_,name)=>'href="/'+name+'.css?v='+styleVersions[name]+'"');
+ if(route==='/request-quote/')polished=polished.replace(/<aside class="contact-dock"[\s\S]*?<\/aside>/,'').replace('<a class="button small" href="/request-quote/">Get a quote</a>','<a class="text-link" href="/">Back to home</a>');
  await writeFile(dir+'index.html',polished);
 }
 await writeFile('robots.txt','User-agent: *\nDisallow: /\n');
