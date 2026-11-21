@@ -8,3 +8,25 @@ body{padding-bottom:28px}.header{min-height:96px}.brand{display:inline-flex;alig
  .people-story{display:grid;grid-template-columns:1.1fr 1fr;gap:65px;align-items:center}.people-image{margin:0;min-width:0}.people-image img{display:block;width:100%;height:auto;border-radius:9px}.people-image figcaption{font-size:10px;color:var(--muted);margin-top:7px}.people-story p:not(.eyebrow){font-size:14px;color:var(--muted)}.prose .people-image{margin:30px 0}@media(max-width:640px){.people-story{grid-template-columns:1fr;gap:25px}.people-story h2 br{display:none}}
 @media(max-width:850px){.request-layout{grid-template-columns:1fr;gap:28px}.request-layout>div:first-child{max-width:none}.request-layout .lead{max-width:620px}}
 body:has(input:focus,textarea:focus,select:focus) .contact-dock{visibility:hidden}
+/* Readable service hierarchy, informed by the RealOnline Votes quote layout. */
+.header nav,.text-link,.service-grid a,.read,footer nav{font-size:15px}
+.eyebrow{font-size:12px;letter-spacing:1.3px}.trust{font-size:14px;gap:12px 20px}
+.quote-card>p:not(.eyebrow),.trial p,.fine,.security p,footer>div>p{font-size:14px}
+label,.check,fieldset summary{font-size:15px}label span{font-size:13px}
+.service-grid p,.guide-card p,.process li p,.process>div>p:not(.eyebrow),.experience>div>p:not(.eyebrow),.people-story p:not(.eyebrow),.faq details p{font-size:16px;line-height:1.75}
+.section{padding:64px 0}.section-head>p{font-size:16px}.service-grid h3{margin:12px 0;font-size:23px}
+.service-grid article{display:flex;flex-direction:column}.service-grid article a{margin-top:auto;padding:12px 0;display:inline-block}
+.service-grid .number{display:none}.guide-card .eyebrow{font-size:12px}
+.request-layout:has(form[data-intake]){grid-template-columns:minmax(0,1fr) minmax(0,1.5fr);gap:48px}
+.request-layout:has(form[data-intake]) h1{font-size:clamp(40px,4.5vw,58px)}
+.request-layout:has(form[data-intake]) .quote-card{padding:36px}
+.request-layout:has(form[data-intake]) .two{grid-template-columns:1fr 1fr}
+.request-layout:has(form[data-intake]) .lead{font-size:18px}
+.request-layout:has(form[data-intake]) ul{padding-left:20px;line-height:1.8}
+.request-layout:has(form[data-intake]) li{margin:15px 0}
+.entry-extras{margin-top:24px;padding-top:20px;border-top:1px solid var(--line)}
+.entry-extras h3{font-size:17px;margin:0}.entry-extras>p{font-size:14px;color:var(--muted);margin:6px 0}
+.button{font-size:16px;min-height:50px}.button.small{font-size:14px}
+.closing{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px}.closing .eyebrow{flex-basis:100%;margin:0}.closing h2{margin:0;max-width:600px}
+@media(max-width:850px){.request-layout:has(form[data-intake]){grid-template-columns:1fr;gap:24px}.request-layout:has(form[data-intake]) .quote-card{padding:26px}.section{padding:42px 0}}
+@media(max-width:540px){.request-layout:has(form[data-intake]) .two{grid-template-columns:1fr}.request-layout:has(form[data-intake]) .quote-card{padding:22px}.header nav{gap:18px;font-size:14px}.contact-dock a{font-size:14px}.hero h1{font-size:clamp(42px,10vw,56px)}.closing .button{width:100%}}
