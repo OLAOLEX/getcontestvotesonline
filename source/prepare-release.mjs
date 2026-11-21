@@ -9,7 +9,7 @@ const urls=[...(await readFile('sitemap.xml','utf8')).matchAll(/<loc>(.*?)<\/loc
 const manifest={preparedAt:new Date().toISOString(),origin,files:{},status:'Prepared only; not deployed. Confirm domain/contact/HTTPS before publication.'};
 async function save(path,data){await mkdir(new URL('./'+path.slice(0,path.lastIndexOf('/')+1),dest),{recursive:true});await writeFile(new URL(path,dest),data);manifest.files[path]=createHash('sha256').update(data).digest('hex');}
 for(const url of urls){if(url.origin!==origin)throw Error('Unexpected sitemap origin');const path=url.pathname.slice(1)+'index.html';let s=await readFile(path,'utf8');s=s.replaceAll('content="noindex,nofollow"','content="index,follow"').replace(/<div class="preview">.*?<\/div>/s,'');await save(path,s);}
-for(const path of ['site.css','forms.css','polish.css','site.mjs','planner.mjs','intake.mjs','submit.mjs','assets/logo-mark.png','assets/contest-people.webp','assets/contest-people-small.webp','sitemap.xml','404.html'])await save(path,await readFile(path));
+for(const path of ['site.css','forms.css','polish.css','site.mjs','planner.mjs','intake.mjs','submit.mjs','assets/logo-mark.png','assets/contest-supporters.webp','assets/contest-supporters-small.webp','assets/contest-people.webp','assets/contest-people-small.webp','sitemap.xml','404.html'])await save(path,await readFile(path));
 await save('robots.txt','User-agent: *\nAllow: /\nSitemap: '+origin+'/sitemap.xml\n');
 await save('_headers','/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n');
 await save('_redirects','/index.html / 301\n');
