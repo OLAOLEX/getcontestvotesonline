@@ -69,6 +69,28 @@ pages['/'][2]=pages['/'][2]
  .replace('GET A CONTEST VOTE QUOTE','GET STARTED')
  .replace('Trial amount and eligibility depend on vote type, contest requirements and available time. We confirm terms before starting.','Trial subject to eligibility and available time.')
  .replace(/<section class="section experience">[\s\S]*?<\/section>/,'<section class="section simple-assurance"><h2>Human support since 2020</h2><p>Worldwide contest support, custom quantities and campaign updates. We confirm price and timing before you order.</p><a class="text-link" href="/about/">About our team</a></section>');
+const plainCopy=[
+ ['Get support for your online contest. Share your entry and deadline; we’ll confirm the price, available scope and delivery timing.','Need more votes for your contest? Send us the contest link, how many votes you want and when voting ends. We’ll reply with a price and delivery time.'],
+ ['Photo, pet and talent contests, local business awards and public polls. The voting action determines the scope.','We help with photo contests, pet contests, talent competitions, business awards and online polls.'],
+ ['For an existing website ballot. Include the exact entry, category and current round.','For contests where people vote directly on a website. Send the voting link and the name of your entry.'],
+ ['Tell us about signup, email confirmation and participant requirements before we agree a campaign.','For contests that ask voters to register or confirm their email. Send the link so we can check the steps and give you a price.'],
+ ['Native polls and external competitions shared through social media. Identify where the vote happens.','For Facebook contests, social polls and contest links shared on social media. Tell us which entry or option you want votes for.'],
+ ['CAPTCHA-protected ballots can be reviewed for eligible human participation. Country and voting-limit requirements apply to each contest.','Does your contest require a CAPTCHA or voters from a particular country? Include that in your request. The contest’s voting rules still apply.'],
+ ['YOUR CONTEST. A PERSONAL APPROACH.','TALK TO OUR TEAM'],
+ ['People behind<br>your campaign.','Tell us what you need.'],
+ ['Explain what you need in your own words. Our team reviews the entry, agrees a clear scope and keeps you updated through the campaign.','Send us your contest link and any questions. We’ll check the details, explain what we can do and agree the price before you pay.'],
+ ['From a first trial to a custom quantity, your request starts with the actual contest.','You can ask for a free trial or a custom number of votes. We’ll keep you updated once your order starts.'],
+ ['FROM ENTRY TO AGREED CAMPAIGN','ORDERING CONTEST VOTES'],
+ ['Send your contest.','Send your contest link.'],
+ ['The entry link or poll description, quantity if known and deadline.','Tell us the entry name, how many votes you need and when voting closes.'],
+ ['Review price and timing.','Get your price.'],
+ ['We confirm the available service, total price, delivery schedule and terms.','We’ll confirm the total price, delivery time and terms for your order.'],
+ ['Agree and receive updates.','Confirm your order.'],
+ ['Keep the scope and reporting arrangements in your campaign conversation.','Once you agree, we’ll start the work and send updates through your chosen contact channel.'],
+ ['Worldwide contest support, custom quantities and campaign updates. We confirm price and timing before you order.','We’ve helped customers with online contests since 2020. Ask us about your contest, a custom order or our free trial.'],
+ ['Send your entry and deadline for review. We confirm available support, total price and timing before you agree an order.','Send your contest link, the number of votes you want and your deadline. We’ll reply with a price and confirm when we can deliver.']
+];
+for(const [before,after] of plainCopy)pages['/'][2]=pages['/'][2].replaceAll(before,after);
 for(const [route,[title,desc,body]] of Object.entries(pages)){
  const dir='.'+route;await mkdir(dir,{recursive:true});const schema={'@context':'https://schema.org','@graph':[{'@type':'Organization','@id':origin+'/#organization',name:'Get Contest Votes Online',url:origin+'/'},{'@type':'WebSite',url:origin+'/',name:'Get Contest Votes Online',publisher:{'@id':origin+'/#organization'}}]};
  if(articles.some(([slug])=>route==='/blog/'+slug+'/'))schema['@graph'].push({'@type':'Article',headline:title.split(' | ')[0],datePublished:'2026-11-15',dateModified:'2026-11-15',author:{'@id':origin+'/#organization'},mainEntityOfPage:origin+route});
