@@ -127,7 +127,7 @@ for(const [route,[title,desc,body]] of Object.entries(pages)){
  polished=polished.replace('</head>','<meta property="og:type" content="'+(route.startsWith('/blog/')&&route!='/blog/'?'article':'website')+'"><meta property="og:image" content="'+origin+'/assets/contest-people.webp"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="'+origin+'/assets/contest-people.webp"><link rel="icon" type="image/png" href="/assets/logo-mark.png"><link rel="stylesheet" href="/polish.css"></head>');
  polished=polished.replace(/href="\/(site|forms|polish)\.css"/g,(_,name)=>'href="/'+name+'.css?v='+styleVersions[name]+'"');
  if(route==='/request-quote/')polished=polished.replace('<a class="button small" href="/request-quote/">Get a quote</a>','<a class="text-link" href="/">Back to home</a>');
- polished=polished.replace('</body>','<section class="contact-prompt" data-contact-prompt hidden aria-label="Contest support"><button type="button" data-dismiss-prompt aria-label="Dismiss contact prompt">×</button><h2>Need votes for your contest?</h2><p>Send us the link and deadline. We’ll help with price and availability.</p><a class="button" href="'+wa+'" target="_blank" rel="noopener noreferrer">Chat on WhatsApp</a><a class="prompt-email" href="mailto:admin@getcontestvotesonline.com">Email support</a></section></body>');
+ // The chat prompt is enabled only once a real conversation service is connected.
  await writeFile(dir+'index.html',polished);
 }
 await writeFile('robots.txt','User-agent: *\nDisallow: /\n');
