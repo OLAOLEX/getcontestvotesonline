@@ -1,0 +1,15 @@
+:root{--action:#ff8500;--action-hover:#ffa13c;--action-ink:#211426;--component-surface:#292234;--component-border:#8b6b99;--component-text:#faf7fc;--control-radius:999px;--control-height:48px;--focus-ring:#ffb878}
+/* Single authority for actions; contextual selectors intentionally outrank legacy styles. */
+:root body :is(.button,.text-link,.text-button,.service-list a,.trial-strip a,.dock-quote,.dock-whatsapp){display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:var(--control-height);padding:12px 24px;border:1px solid transparent;border-radius:var(--control-radius);font:650 16px/1.4 TildaSans,Arial,sans-serif;text-align:center;text-decoration:none;letter-spacing:0;cursor:pointer;box-shadow:none;white-space:normal;background:var(--action);color:var(--action-ink);width:fit-content;margin:0;transition:background-color .15s,border-color .15s}
+:root body :is(.button.secondary,.text-link,.text-button,.service-list a,.trial-strip a){background:var(--component-surface);color:var(--component-text);border-color:var(--component-border)}
+:root body :is(.button,.dock-quote):hover{background:var(--action-hover);color:var(--action-ink);text-decoration:none}
+:root body :is(.button.secondary,.text-link,.text-button,.service-list a,.trial-strip a):hover{background:#44334e;color:#fff;border-color:#ffad68;text-decoration:none}
+:root body :is(.button.small,.dock-quote,.dock-whatsapp){min-height:44px;font-size:14px;padding:10px 20px}
+:root body .dock-whatsapp{background:#14824b;color:#fff;border-color:#59bd85}:root body .dock-whatsapp:hover{background:#106c3e;color:#fff}
+:root body :is(.button,.text-link,.text-button,.service-list a,.trial-strip a,.dock-quote,.dock-whatsapp):focus-visible{outline:3px solid var(--focus-ring);outline-offset:4px}
+:root body :is(button:disabled,.button:disabled){opacity:.6;cursor:wait}:root body .quote-card form>.button{width:100%;margin-top:20px}:root body [data-review]>.button,:root body [data-review]>.text-button{margin:16px 12px 0 0}:root body .request-success>.button{margin-top:16px}
+:root body .contact-prompt{position:fixed;right:20px;bottom:136px;width:min(340px,calc(100vw - 32px));padding:24px;background:var(--component-surface);border:1px solid var(--component-border);border-radius:20px;z-index:41;box-shadow:0 12px 35px #0004}:root body .contact-prompt h2{font-size:24px;line-height:1.2;letter-spacing:-.4px;margin:0 24px 12px 0}:root body .contact-prompt p{font-size:16px;line-height:1.6;color:#c6bccf}:root body .contact-prompt>button{position:absolute;top:6px;right:6px;width:44px;height:44px;border:0;background:transparent;color:#fff;font-size:26px;cursor:pointer}
+:root body:has(input:focus,textarea:focus,select:focus) :is(.contact-prompt,.contact-dock){visibility:hidden}
+@media(max-width:540px){:root body .contact-prompt{right:12px;bottom:126px}:root body .request-success>.button{width:100%}:root body .actions{gap:12px}}
+@media(prefers-reduced-motion:reduce){:root body :is(.button,.text-link,.text-button){transition:none}}
+[hidden]{display:none!important}

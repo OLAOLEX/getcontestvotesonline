@@ -2,7 +2,7 @@ import {moreGuides} from './more-guides.mjs';
 import {writeFile,mkdir,readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 const siteVersion=createHash('sha256').update(await readFile('site.mjs')).update(await readFile('intake.mjs')).update(await readFile('submit.mjs')).digest('hex').slice(0,12);
-const styleVersions={};for(const name of ['site','forms','polish'])styleVersions[name]=createHash('sha256').update(await readFile(name+'.css')).digest('hex').slice(0,12);
+const styleVersions={};for(const name of ['site','forms','polish','components'])styleVersions[name]=createHash('sha256').update(await readFile(name+'.css')).digest('hex').slice(0,12);
 const origin='https://getcontestvotesonline.com';
 const wa='https://wa.me/2349048777608';
 const articles=[
@@ -130,7 +130,7 @@ for(const [route,[title,desc,body]] of Object.entries(pages)){
  polished=polished.replace('</head>','<meta property="og:type" content="'+(route.startsWith('/blog/')&&route!='/blog/'?'article':'website')+'"><meta property="og:image" content="'+origin+'/assets/contest-people.webp"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="'+origin+'/assets/contest-people.webp"><link rel="icon" type="image/png" href="/assets/logo-mark.png"><link rel="stylesheet" href="/polish.css"></head>');
  polished=polished.replace(/href="\/(site|forms|polish)\.css"/g,(_,name)=>'href="/'+name+'.css?v='+styleVersions[name]+'"');
  if(route==='/request-quote/')polished=polished.replace('<a class="button small" href="/request-quote/">Get a quote</a>','<a class="text-link" href="/">Back to home</a>');
- // The chat prompt is enabled only once a real conversation service is connected.
+ polished=polished.replace('</head>','<link rel="stylesheet" href="/components.css?v='+styleVersions.components+'"></head>').replace('</body>','<aside class="contact-prompt" data-contact-prompt hidden aria-label="Contest help"><button type="button" data-dismiss-prompt aria-label="Dismiss contest help">×</button><h2>Have a contest question?</h2><p>Send your entry link and deadline. Our team can help with price and availability.</p><a class="button" href="/request-quote/">Ask about your contest</a></aside></body>');
  await writeFile(dir+'index.html',polished);
 }
 await writeFile('robots.txt','User-agent: *\nDisallow: /\n');
