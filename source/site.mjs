@@ -10,6 +10,13 @@ export function quoteUrl({entry,quantity='',deadline='',trial=false}){
  return 'https://wa.me/2349048777608?text='+encodeURIComponent(message);
 }
 if(typeof document!=='undefined'){
+ const prompt=document.querySelector('[data-contact-prompt]');
+ if(prompt){
+  let seen=false;try{seen=sessionStorage.getItem('gcvo-contact-seen')==='1';}catch{}
+  if(!seen){prompt.hidden=false;try{sessionStorage.setItem('gcvo-contact-seen','1');}catch{}}
+  prompt.querySelector('[data-dismiss-prompt]').onclick=()=>{prompt.hidden=true;};
+  document.addEventListener('focusin',event=>{if(event.target.matches('input,textarea,select'))prompt.hidden=true;});
+ }
  for(const starter of document.querySelectorAll('[data-starter]'))starter.addEventListener('submit',event=>{event.preventDefault();if(!starter.reportValidity())return;try{const draft=contestDetails(Object.fromEntries(new FormData(starter)));try{sessionStorage.setItem(DRAFT_KEY,JSON.stringify({...draft,savedAt:Date.now()}));}catch{starter.querySelector('[data-form-error]').textContent='Your browser could not carry these details to the next page. They are still here. Use Get a quote in the header to enter them directly, or chat on WhatsApp.';return;}location.assign('/request-quote/'+(draft.trial?'?trial=1':''));}catch(error){starter.querySelector('[data-form-error]').textContent=error.message;}});
  const intake=document.querySelector('[data-intake]');
  if(intake){
