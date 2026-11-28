@@ -4,14 +4,14 @@ This file and `source/components.css` govern shared components. Read before chan
 
 ## Tokens
 
-Deep plum page #15111f; raised surface #292234; white text #faf7fc; secondary text #c6bccf; orange action #ff8500; orange hover #ffa13c; secondary border #8b6b99; focus #ffb878. TildaSans with Arial fallback. Body 18px, form controls 16px, buttons 16px/650. Spacing uses multiples of 4px.
+Cream page #fcfaf7; white raised surface #fffdfa; plum text #302239; secondary text #71647b; orange action #ee8736; orange hover #f49a50; secondary border #c9b7d1; focus #ad6032. TildaSans with Arial fallback. Body 18px, form controls 16px, buttons 16px/650. Spacing uses multiples of 4px.
 
 ## Buttons
 
 | Variant | Usage | Appearance |
 |---|---|---|
 | `.button` | Main quote/send action | Orange, dark text |
-| `.button.secondary` | Supporting action | Plum, light text, outlined |
+| `.button.secondary` | Supporting action | Cream, plum text, outlined |
 | `.button.small` | Header | Same style, compact |
 | `.dock-whatsapp` | External WhatsApp | Green, same compact geometry |
 | `.text-link` | Supporting CTA outside article text | Secondary button |
@@ -29,3 +29,5 @@ Dock appears on every page as one horizontal compact unit; WhatsApp is green and
 ## Verification
 
 Build and check all links; inspect homepage, blog, quote, review and success states. Check shared styles at desktop and narrow widths. Keep metadata/URLs stable for visual-only changes. Deploy only public/ using the existing worker config.
+
+Quote layout: wide form on left, three-step after-send explanation on right; stack below 800px. Visible entry notes precede contact fields. Preserve the review/receipt flow and dedicated endpoint.
