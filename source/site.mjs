@@ -20,6 +20,9 @@ if(typeof document!=='undefined'){
   const planned=params.get('quantity');if(planned&&/^\d+$/.test(planned)&&Number(planned)>0&&Number(planned)<=(trial.checked?100:1e9))q.value=planned;
   if(['website','registration','social'].includes(params.get('service'))){intake.elements.service.value=params.get('service');intake.elements.service.closest('details').open=true;}
   function trialLimit(){q.max=trial.checked?'100':'1000000000';}trialLimit();trial.addEventListener('change',trialLimit);
+  const replyChannel=intake.elements.channel,phone=intake.elements.phone;
+  function syncReplyChannel(){phone.required=replyChannel.value==='whatsapp';const optional=phone.labels?.[0]?.querySelector('span');if(optional)optional.textContent=phone.required?'required for WhatsApp replies':'optional';}
+  syncReplyChannel();replyChannel.addEventListener('change',syncReplyChannel);
   const review=document.querySelector('[data-review]');let summary='';
   let sending=false,sent=false,reference=null;
   const sendButton=review.querySelector('[data-send-email]'),sendStatus=review.querySelector('[data-send-status]');
