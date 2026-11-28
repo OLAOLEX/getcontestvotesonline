@@ -24,7 +24,7 @@ Controls have one fixed-size chevron, never a repeating image. Visible labels, o
 
 ## Contact controls and prompt
 
-Dock appears on every page; WhatsApp and quote remain separate actions. Reserve footer clearance and hide overlays during field focus. Help card appears once per tab session, can be dismissed with its close button or Escape, and must not steal focus. Returning visitors can still use the dock. No email in popup; support email belongs in every footer. A quote-help card is not live chat. Only advertise online presence after a real message service and staff status are connected.
+Dock appears on every page as one horizontal compact unit; WhatsApp is green and quote is orange. The help card aligns above it with a 16px gap. WhatsApp and quote remain separate actions. Reserve footer clearance and hide overlays during field focus. Help card appears once per tab session, can be dismissed with its close button or Escape, and must not steal focus. Returning visitors can still use the dock. No email in popup; support email belongs in every footer. A quote-help card is not live chat. Only advertise online presence after a real message service and staff status are connected.
 
 ## Verification
 
