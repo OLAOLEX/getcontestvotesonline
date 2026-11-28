@@ -31,7 +31,15 @@ if(typeof document!=='undefined'){
    sending=true;sendButton.disabled=true;sendButton.textContent='Sending…';intake.setAttribute('aria-busy','true');
    const fields=[...intake.elements],prior=fields.map(el=>el.disabled);fields.forEach(el=>el.disabled=true);
    review.querySelector('[data-edit]').disabled=true;sendStatus.textContent='Sending request. Reference: '+reference;
-   try{await submitEnquiry(data,reference);sent=true;intake.hidden=true;review.querySelector('[data-summary]').hidden=true;review.querySelector('[data-unsent]').hidden=true;review.querySelector('[data-send-whatsapp]').hidden=true;review.querySelector('[data-copy]').hidden=true;review.querySelector('[data-edit]').hidden=true;sendButton.hidden=true;review.querySelector('h3').textContent='Request received';sendStatus.textContent='Formspree accepted your enquiry. Our team will review it and reply using your contact details. Reference: '+reference;review.focus();}
+   try{await submitEnquiry(data,reference);sent=true;intake.hidden=true;
+    review.replaceChildren();review.classList.add('request-success');
+    const mark=document.createElement('span');mark.className='success-mark';mark.textContent='✓';mark.setAttribute('aria-hidden','true');
+    const heading=document.createElement('h3');heading.id='review-title';heading.textContent='Thank you. Your request is received.';
+    const message=document.createElement('p');message.textContent='Our team will review your contest and reply using your contact details.';
+    const ref=document.createElement('p');ref.className='receipt-reference';ref.textContent='Reference: '+reference;
+    const chat=document.createElement('a');chat.className='button secondary';chat.href='https://wa.me/2349048777608?text='+encodeURIComponent('Hi, I have a question about my quote request. Reference: '+reference);chat.target='_blank';chat.rel='noopener noreferrer';chat.textContent='Chat on WhatsApp';
+    review.append(mark,heading,message,ref,chat);review.focus();
+   }
    catch(error){sendStatus.textContent=error.message+' Reference: '+reference;}
    finally{sending=false;if(!sent){fields.forEach((el,i)=>el.disabled=prior[i]);review.querySelector('[data-edit]').disabled=false;sendButton.disabled=false;sendButton.textContent='Send quote request';}intake.removeAttribute('aria-busy');}
   });
