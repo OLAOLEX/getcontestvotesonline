@@ -1,0 +1,122 @@
+[
+  {
+    "title": "How to get votes quickly when your contest closes soon",
+    "intent": "An entrant has a verified ballot link and needs a realistic, rule-aware plan for the remaining time, including what details to send when seeking outside help.",
+    "angle": "Keep the emphasis on the entrant's immediate decisions: confirm the live round and exact closing time zone, share one direct ballot link with willing supporters, and request availability and completion timing before paying. Do not imply votes can be delivered by a guaranteed deadline or predict a win.",
+    "overlap": "Directly covered by Get's contest-voting-closes-today guide and the broader how-to-get-contest-votes guide. Keep as an existing URL/refresh target; do not create a competing article.",
+    "source_urls": ["https://www.tampabayobserver.com/awards/rules/"],
+    "source_checked": [{"url":"https://www.tampabayobserver.com/awards/rules/","status":"opened_successfully","note":"Official rules page opened. It gives exact nomination, voting, and winner dates, names the organizer's server as official timekeeper, and allows dates to change with notice. Useful evidence for checking the live deadline and stage; not evidence of third-party delivery availability."}],
+    "status": "merge_into_existing",
+    "suggested_links": ["/blog/contest-voting-closes-today/", "/blog/which-contest-link-to-send/", "/request-quote/"]
+  },
+  {
+    "title": "How to compare contest-vote prices on the same scope",
+    "intent": "A buyer wants an affordable option and needs to compare quote totals, deadlines, vote method, and required signup steps before choosing.",
+    "angle": "Use the same entry link, quantity, deadline, and voting requirements when comparing quotes. Ask for full price/currency, delivery window, progress updates, and applicable terms; explain why a website ballot and an email-registration ballot can involve different steps. Avoid unsupported market-price claims.",
+    "overlap": "Get already has contest-votes-pricing; realonlinevotes has contest-vote-pricing; sister contestvotesonline has a quote checklist. Preserve the existing Get URL and improve it only if it does not already fully answer quote-comparison intent.",
+    "source_urls": ["https://help.woobox.com/articles/voting-options/", "https://help.woobox.com/articles/video-submissions/"],
+    "source_checked": [{"url":"https://help.woobox.com/articles/voting-options/","status":"opened_successfully","note":"Official Woobox help opened; documents materially different platform vote restrictions, including IP, email, daily, and country rules. Supports comparing the actual voting workflow, not any particular market price."},{"url":"https://help.woobox.com/articles/video-submissions/","status":"opened_successfully","note":"Official Woobox help opened; provides platform-specific format/size and approval requirements that can affect the work involved."}],
+    "status": "merge_into_existing",
+    "suggested_links": ["/blog/contest-votes-pricing/", "/blog/email-registration-contest-votes/", "/tools/vote-planner/", "/request-quote/"]
+  },
+  {
+    "title": "What an up-to-100-vote free trial can and cannot tell you",
+    "intent": "A cautious buyer wants to understand the available free trial, its eligibility, and what to confirm before proceeding with a paid request.",
+    "angle": "State the existing offer accurately as up to 100 votes, subject to eligibility, contest requirements, vote type, and available time. Explain that a trial is not a promised amount, proof of final acceptance, or automatic paid order; recommend confirming the agreed amount and terms first.",
+    "overlap": "Already covered by Get's free-contest-votes-trial page and linked from its quote form. Retain that URL as the canonical trial-intent target.",
+    "source_urls": ["https://www.tampabayobserver.com/awards/rules/"],
+    "source_checked": [{"url":"https://www.tampabayobserver.com/awards/rules/","status":"opened_successfully","note":"Official rules opened. It explicitly prohibits purchased votes for that particular program, illustrating why eligibility/rules must be checked before offering or requesting a trial; it does not establish GCVO trial eligibility."}],
+    "status": "keep_existing",
+    "suggested_links": ["/blog/free-contest-votes-trial/", "/request-quote/?trial=1", "/service-information/"]
+  },
+  {
+    "title": "Getting votes for a local business award",
+    "intent": "A local business owner or team member is a nominee/finalist and needs to share the official ballot with genuine customers without misrepresenting the award rules.",
+    "angle": "Make it buyer-facing: verify the business is eligible and actually on the ballot, use the award's official category link, tell customers what the award means, and check whether voting is daily or single-entry. Explain that organizer rules can prohibit paid/incentivized votes and that some awards combine public votes with editorial or judge review; avoid promising that a campaign will win.",
+    "overlap": "Sister sites have broad Readers' Choice guides; Get's home copy mentions local business awards but no dedicated business-award guide. A distinct local-business buyer guide may fit if it avoids duplicating a generic Readers' Choice explainer.",
+    "source_urls": ["https://www.tampabayobserver.com/awards/rules/", "https://www.nshoremag.com/bons-faq/"],
+    "source_checked": [{"url":"https://www.tampabayobserver.com/awards/rules/","status":"opened_successfully","note":"Official 2026 award rules opened. They describe eligibility, phases, category assignment, permitted genuine customer outreach, prohibited purchased/incentivized votes, and a mixed public/editorial winner process."},{"url":"https://www.nshoremag.com/bons-faq/","status":"opened_successfully","note":"Official organizer FAQ opened. It says its specific award disallows buying votes or offering discounts for votes and distinguishes Readers' Choice from Editors' Choice. Rules vary by contest."}],
+    "status": "candidate",
+    "suggested_links": ["/blog/ask-for-votes-message-examples/", "/blog/which-contest-link-to-send/", "/request-quote/"]
+  },
+  {
+    "title": "Getting votes for a business in several award categories or locations",
+    "intent": "A business with multiple branches, services, or category placements wants to direct supporters to the right listing and avoid mixing entries.",
+    "angle": "Offer a simple entry-by-entry checklist: verify the listed business/location and category, copy and test each official ballot link, prepare a short category-specific ask, and check whether category placements lock when voting begins. LNP's rules make category placement final at voting; Northshore's award says locations may be recognized separately.",
+    "overlap": "High topical overlap with sister-site Readers' Choice guides, but a practical multi-location/multi-category vote-routing angle is not apparent in Get's source inventory. Distinguish this from generic category research and avoid asserting every award permits multiple entries.",
+    "source_urls": ["https://lnpmediagroup.voterfly.com/Contest-rules", "https://www.nshoremag.com/bons-faq/"],
+    "source_checked": [{"url":"https://lnpmediagroup.voterfly.com/Contest-rules","status":"opened_successfully","note":"Official 2026 contest rules opened. They say business category placement is final once voting begins and each person may vote once per category for that contest."},{"url":"https://www.nshoremag.com/bons-faq/","status":"opened_successfully","note":"Official FAQ opened; it describes specific-location recognition and separate local eligibility rules."}],
+    "status": "candidate_with_overlap",
+    "suggested_links": ["/blog/which-contest-link-to-send/", "/blog/ask-for-votes-message-examples/", "/request-quote/"]
+  },
+  {
+    "title": "My contest entry is submitted but voting has not started: what now?",
+    "intent": "An entrant has submitted an entry and wants to know when and how to begin asking for votes, or why the entry is not visible yet.",
+    "angle": "Explain the entrant's checkpoints: submission confirmation, organizer approval/moderation, placement in the correct gallery/category, opening of the voting phase, and a working direct entry link. Woobox describes separate submitted and gallery pages and says approval settings can affect visibility. Tell readers not to treat submission confirmation as proof the entry is publicly votable.",
+    "overlap": "Get's current photo-votes page and contest-link guide touch entry preparation, but no dedicated post-submission/readiness intent appears in its source inventory. Sister sites have photo guides. Keep this about entrant troubleshooting and readiness, not organizer setup instructions.",
+    "source_urls": ["https://help.woobox.com/articles/pages/", "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"],
+    "source_checked": [{"url":"https://help.woobox.com/articles/pages/","status":"opened_successfully","note":"Official Woobox help opened. It distinguishes entry/submitted pages from a Photo/Video Contest gallery with its own dates and voting options."},{"url":"https://help.woobox.com/articles/photo-ugg-contest-setup-guide/","status":"opened_successfully","note":"Official Woobox setup guide opened. It describes manual approval, gallery, entry-period, and voting settings that can affect visibility. It is organizer documentation used only to explain entrant-facing checks."}],
+    "status": "candidate",
+    "suggested_links": ["/blog/which-contest-link-to-send/", "/blog/contest-votes-not-showing/", "/request-quote/?service=website"]
+  },
+  {
+    "title": "How to get votes for a video contest entry",
+    "intent": "A video-contest entrant needs to make sure supporters can open, play, and vote for the correct clip.",
+    "angle": "Keep it video-specific: test the entry page on mobile and a private browser, confirm the video is approved and playable, check whether it is a direct upload or an accepted social/hashtag entry, and share the entry-level URL rather than only a gallery or profile. Woobox documents supported direct-upload formats and a 250 MB maximum; hashtag entry has its own constraints.",
+    "overlap": "Get has a photo contest guide; sister sites have photo-vote pages, but no dedicated video-voting guide was found in these inventories. Preserve a clear video search intent and avoid duplicating the photo article's general advice.",
+    "source_urls": ["https://help.woobox.com/articles/video-submissions/", "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"],
+    "source_checked": [{"url":"https://help.woobox.com/articles/video-submissions/","status":"opened_successfully","note":"Official Woobox help opened. It documents accepted video formats/size, approval, gallery playback, and hashtag constraints."},{"url":"https://help.woobox.com/articles/photo-ugg-contest-setup-guide/","status":"opened_successfully","note":"Official setup guide opened; confirms gallery, manual approval, and video entry features. Platform-specific examples should be labeled as such."}],
+    "status": "candidate",
+    "suggested_links": ["/blog/photo-contest-votes/", "/blog/which-contest-link-to-send/", "/request-quote/?service=website"]
+  },
+  {
+    "title": "Pet contest votes: check whether the contest is voted on or judged",
+    "intent": "A pet owner wants to know whether supporters can vote for their pet and what permissions/rules apply before sharing an image.",
+    "angle": "Answer the qualification question first: some pet photo contests use judges rather than public voting. Tell entrants to check winner criteria and photo/person permissions before planning outreach or seeking voting support. AKC's 2026 photo contest, for example, is judged and requires rights/permissions for depicted people and dogs; do not present that one contest's terms as universal.",
+    "overlap": "Get's inspected inventory has no pet-photo guide; pet/photo-vote articles are on the two sister domains. This would fill a Get-domain gap but has strong cross-site topic overlap, so hold until sister-site query ownership/canonical intent is reviewed. Do not state Get already has pet content.",
+    "source_urls": ["https://www.akc.org/products-services/magazines/family-dog/photo-contest/rules/"],
+    "source_checked": [{"url":"https://www.akc.org/products-services/magazines/family-dog/photo-contest/rules/","status":"opened_successfully","note":"Official AKC 2026 rules opened. The contest uses a judging panel and requires photo ownership/permissions for people and dogs shown. This is an example, not a general rule for pet contests."}],
+    "status": "hold_cross_domain_overlap",
+    "suggested_links": ["/blog/photo-contest-votes/", "/blog/which-contest-link-to-send/", "/request-quote/?service=website"]
+  },
+  {
+    "title": "How to get votes in a talent contest with judging rounds",
+    "intent": "A singer, dancer, performer, or other talent entrant wants to understand when public voting matters and how to ask supporters during the right round.",
+    "angle": "Frame around contest-specific rules: identify the audition/shortlist/live/final stages, determine whether audience votes decide the result or count alongside judges, then share the official link only during an eligible voting period. Avoid equating popularity with the judged outcome.",
+    "overlap": "Get's reviewed inventory has no general talent-contest guide, though a sister site covers athlete/player voting and a sister guide covers judges versus public votes. Search-result evidence was found from BBC-branded editorial guidance, but the opened URL was bbc.com.im rather than a verified canonical BBC domain; treat as unverified and do not rely on it as authority. Hold pending an authoritative organizer/platform source.",
+    "source_urls": ["https://bbc.com.im/editorialguidelines/guidance/talent-searches-and-contestants", "https://bbc.com.im/editorialguidelines/guidance/audience-interactivity/part-a/"],
+    "source_checked": [{"url":"https://bbc.com.im/editorialguidelines/guidance/talent-searches-and-contestants","status":"fetch_failed_unverified_domain","note":"Search result returned guidance text, but opening timed out. The host is bbc.com.im, not a verified canonical BBC domain; do not cite as authoritative."},{"url":"https://bbc.com.im/editorialguidelines/guidance/audience-interactivity/part-a/","status":"fetch_failed_unverified_domain","note":"Search result returned guidance text, but opening timed out. The host is bbc.com.im, not a verified canonical BBC domain; do not cite as authoritative."}],
+    "status": "hold_source_verification",
+    "suggested_links": ["/blog/how-to-get-contest-votes/", "/blog/which-contest-link-to-send/", "/request-quote/"]
+  },
+  {
+    "title": "Getting votes for a community-choice grant or nonprofit award",
+    "intent": "A nonprofit, school-affiliated group, or community program is eligible for a public-choice award/grant and needs to direct supporters through the official nomination and voting steps.",
+    "angle": "Make this an entrant's checklist rather than organizer advice: verify eligibility, submit the nomination through the required official form, wait for confirmation/ballot listing, share the ballot link with the relevant community, and say what the award funds. The Otsego Community Foundation explicitly says social posts/comments do not count as nominations; ballot voting follows the nomination stage.",
+    "overlap": "No direct nonprofit/grant campaign guide appears in Get or the inspected sibling inventories. It is adjacent to general ask-for-votes templates; distinguish it by grant eligibility, official nomination forms, and what the award supports.",
+    "source_urls": ["https://www.otsegofoundation.org/back-to-school-community-choice-grants/"],
+    "source_checked": [{"url":"https://www.otsegofoundation.org/back-to-school-community-choice-grants/","status":"opened_successfully","note":"Official foundation page opened. It gives eligible organization types, nomination deadline, required official form, later ballot stage, and grant outcomes."}],
+    "status": "candidate",
+    "suggested_links": ["/blog/ask-for-votes-message-examples/", "/blog/contest-voting-closes-today/", "/request-quote/"]
+  },
+  {
+    "title": "Community Choice votes versus judges' prizes in school awards",
+    "intent": "A shortlisted school wants to promote a public-choice award while keeping supporters clear about separate judge-selected prizes.",
+    "angle": "Explain the distinction between public vote and expert judging in plain language, then show how an entrant can share the official public-vote page and explain what that particular award decides. World’s Best School Prizes says its Community Choice vote is independent of the five judged prize decisions; do not imply votes determine those main prizes.",
+    "overlap": "No school-award article appears in Get or the inspected sibling inventories. There is some thematic overlap with the sister public-vote-versus-judges explainer; hold or merge if that page already targets hybrid-award intent after full query review.",
+    "source_urls": ["https://vote.worldsbestschool.org/wbsp26/terms"],
+    "source_checked": [{"url":"https://vote.worldsbestschool.org/wbsp26/terms","status":"opened_successfully","note":"Official 2026 rules opened. They separate the judge-selected prizes from Community Choice, specify unique email registration, keep vote totals private, and require permissions for submitted assets."}],
+    "status": "candidate_with_overlap",
+    "suggested_links": ["/blog/how-to-get-contest-votes/", "/blog/ask-for-votes-message-examples/", "/request-quote/"]
+  },
+  {
+    "title": "Why supporters cannot vote: email, location, daily limits, and shared networks",
+    "intent": "An entrant's supporters are blocked or confused by registration, country eligibility, repeat limits, or a shared IP address.",
+    "angle": "Build a troubleshooting flow: read the ballot's own error message, check whether email confirmation/login is required, verify voter-country eligibility, distinguish daily reset from one-vote-only, and consider that an IP limit may affect people sharing a workplace/school/home network. Woobox documents these as configurable settings; tell readers the organizer/platform controls the actual rules.",
+    "overlap": "Get already covers email-registration votes and daily voting; realonlinevotes covers voting rules. This is a useful merge/refresh if those pages do not sufficiently answer blocked-supporter intent; avoid creating a third general rules guide.",
+    "source_urls": ["https://help.woobox.com/articles/voting-options/"],
+    "source_checked": [{"url":"https://help.woobox.com/articles/voting-options/","status":"opened_successfully","note":"Official Woobox help opened. It documents IP/shared-network, Facebook-user, email, daily reset, captcha, and country geofencing settings; these are examples for Woobox Classic photo/video contests and vary by platform."}],
+    "status": "merge_into_existing",
+    "suggested_links": ["/blog/email-registration-contest-votes/", "/blog/daily-contest-voting/", "/blog/contest-votes-not-showing/", "/request-quote/?service=registration"]
+  }
+]

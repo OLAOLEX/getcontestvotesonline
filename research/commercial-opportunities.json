@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Does This Contest Allow Paid Votes? Check the Rules Before Ordering",
+    "intent": "Commercial investigation; establish whether a prospective contest is eligible for any paid support.",
+    "angle": "Show readers how to find the contest's own rules and check for bans on purchased or incentivized votes, eligibility requirements, and disqualification clauses. Explain that organizer-authorized in-platform vote purchases differ from third-party purchased votes. Do not recommend proceeding when the rules prohibit it.",
+    "overlap": "Adjacent to price comparison and how to get contest votes; make this a rules-first decision page rather than another generic buying guide.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+      "https://creators.maxim.com/terms",
+      "https://peopleschoice.missusa.com/legal/rules"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Link to existing price comparison only after explaining eligibility and that prices do not establish permission.",
+      "CTA: Ask support to review a public contest rules URL before any quote, if that review is actually offered."
+    ]
+  },
+  {
+    "title": "What to Have Ready for a Contest Support Eligibility Check",
+    "intent": "High-intent pre-order research from users assessing whether help is possible.",
+    "angle": "List safe, public information useful for an eligibility review: contest URL, official rules URL, platform, deadline with time zone, stated voter country limits, and per-user cap. Clearly say not to share account passwords, one-time codes, or private voter data. Only claim an eligibility check if the service provides one.",
+    "overlap": "Expands how to get contest votes and registration votes with practical intake details.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Link to registration-votes and price-comparison pages.",
+      "CTA: Submit the public contest and official rules links for an eligibility check, only if available."
+    ]
+  },
+  {
+    "title": "Contest Vote Packages: Compare a Quote Without Assuming a Win",
+    "intent": "Transactional comparison for visitors evaluating vote-support costs.",
+    "angle": "Explain quote components readers should compare: exact quantity, service scope, delivery estimate if confirmed, exclusions, cancellation/refund terms, and any contest-specific restrictions. Avoid publishing prices until checked against the live site and never promise a win or guaranteed placement.",
+    "overlap": "Direct overlap with existing price comparison; use as an expansion only if it adds a transparent quote checklist and verified current prices.",
+    "source_urls": [],
+    "source_checked": false,
+    "unverified_sources": [
+      "https://getcontestvotesonline.com (could not be fetched; current packages, prices, and terms remain unverified)"
+    ],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Link to existing price comparison and the relevant verified service page.",
+      "CTA: Request an itemized quote after confirming eligibility; only if this option exists."
+    ]
+  },
+  {
+    "title": "How a Contest Vote-Support Order Works: Quote, Approval, and Receipt",
+    "intent": "Transactional; answer process and purchase-confidence questions.",
+    "angle": "Document only the real steps after inspecting the service: request, compatibility decision, confirmed scope and price, customer approval, payment, status updates, and receipt. Include cancellation/refund terms verbatim or accurately summarized. Do not invent steps, delivery windows, or guarantees.",
+    "overlap": "Expands price comparison and how to get contest votes; should be merged into an existing order-process page if one exists.",
+    "source_urls": [],
+    "source_checked": false,
+    "unverified_sources": [
+      "https://getcontestvotesonline.com (could not be fetched; actual order flow and terms remain unverified)"
+    ],
+    "status": "hold",
+    "suggested_links": [
+      "Link to the relevant verified service page and price comparison.",
+      "CTA: Begin the verified request flow; do not imply a quote or order step that the site lacks."
+    ]
+  },
+  {
+    "title": "Can Voters From Your Country Participate? Check Contest Eligibility First",
+    "intent": "Commercial research from customers whose contest has geographic restrictions.",
+    "angle": "Explain that organizers can restrict participation or voting by country, and that a location mismatch may make votes invalid. Encourage checking official contest terms and asking the organizer when unclear. Do not imply that geographic targeting is available from the service unless verified.",
+    "overlap": "Expands registration-votes and how to get contest votes with a country-eligibility focus.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Link to registration-votes and the existing entry-link guide.",
+      "CTA: Send the public rules URL to check country eligibility, only if this service is offered."
+    ]
+  },
+  {
+    "title": "Daily Voting Limits: Plan a Reminder Schedule Around the Official Rules",
+    "intent": "Informational with service consideration; help users plan compliant reminders.",
+    "angle": "Explain that caps and reset periods are contest-specific. Build a reminder schedule for willing, eligible supporters using the published rules; avoid automated voting or tactics that simulate unique voters. Mention organizer rules may distinguish ordinary reminders from paid or incentivized voting.",
+    "overlap": "Strong overlap with daily reminders and message examples; expand or merge rather than publish a near-duplicate.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462114-How-to-create-a-Voting-Contest-based-on-the-Pick-your-favorite-concept",
+      "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "merge",
+    "suggested_links": [
+      "Merge into the daily-reminders article and link to existing message examples.",
+      "CTA: Get help preparing a compliant reminder plan, only if offered."
+    ]
+  },
+  {
+    "title": "Contest Closes Tonight: Deadline and Time-Zone Checklist",
+    "intent": "Urgent commercial; visitors checking whether support can fit a closing deadline.",
+    "angle": "Walk through confirming the official deadline's time zone, the last valid submission time, any email verification step, and whether votes must be validated before close. Make no instant-delivery or feasibility claim unless a current, contest-specific quote confirms it.",
+    "overlap": "Direct overlap with closes-today; add a deadline checklist to that page instead of creating a thin duplicate.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+    ],
+    "source_checked": true,
+    "unverified_sources": [
+      "https://getcontestvotesonline.com (could not be fetched; delivery capability and turnaround claims remain unverified)"
+    ],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Expand the closes-today article and link to the contest entry-link page.",
+      "CTA: Ask for a deadline-specific feasibility check, if offered; do not guarantee completion."
+    ]
+  },
+  {
+    "title": "Why Contest Votes May Not Appear or Count",
+    "intent": "Troubleshooting; users may be considering additional paid support after a vote issue.",
+    "angle": "Cover rule-based causes such as a closed voting window, country restriction, per-user cap, unverified email, invalid-vote review, or platform display delay. Direct readers to the organizer/platform for status. Do not frame purchasing more votes as a fix or advise evading filters.",
+    "overlap": "Direct overlap with votes-not-showing; expand that article with sourced causes and a clear troubleshooting sequence.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Expand the votes-not-showing article and link to registration-votes and the entry-link guide.",
+      "CTA: Contact the contest organizer or support with the public contest URL and error details."
+    ]
+  },
+  {
+    "title": "Photo Contest Voting: Check the Gallery, Entry Status, and Voting Dates",
+    "intent": "Contest-specific informational/commercial; photo entrants looking for practical next steps.",
+    "angle": "Explain common photo-contest mechanics: public entries or gallery visibility, voting window dates, and per-user limits. Ask readers to verify their own contest configuration and rules; do not make generic promises about supported platforms.",
+    "overlap": "Directly overlaps the existing photo-contest votes topic; add a mechanics/rules section to that page.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462114-How-to-create-a-Voting-Contest-based-on-the-Pick-your-favorite-concept"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "merge",
+    "suggested_links": [
+      "Merge into the existing photo-contest-votes article and link to the entry-link page.",
+      "CTA: Submit the public contest link for eligibility review, only if offered."
+    ]
+  },
+  {
+    "title": "Does the Ballot Require Registration or Email Verification?",
+    "intent": "Commercial investigation; clarify friction and validity requirements before deciding next steps.",
+    "angle": "Describe common sign-in approaches and why email verification can be required. Tell readers to use their own legitimate account and follow the contest flow; do not offer account creation, fake identities, or verification bypasses.",
+    "overlap": "Direct overlap with registration-votes; expand that page with ballot-specific registration and verification questions.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/9575923670684-Types-of-login-available-to-identify-your-campaign-participants",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "expand_existing",
+    "suggested_links": [
+      "Expand registration-votes and link to the entry-link and votes-not-showing pages.",
+      "CTA: Ask support whether a contest's published registration flow is compatible, if this check is offered."
+    ]
+  },
+  {
+    "title": "Votes Were Removed: What to Review Before Taking Further Action",
+    "intent": "Urgent support and recovery research; readers worried about loss or disqualification.",
+    "angle": "Advise reviewing official rules and organizer notices, checking allowed countries and voting limits, and contacting the organizer. State that some organizers explicitly ban purchased votes and may disqualify entrants; never recommend retrying through alternate accounts, locations, or evasion methods.",
+    "overlap": "Overlaps votes-not-showing; make this a section there unless search data shows distinct demand.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+      "https://creators.maxim.com/terms",
+      "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "merge",
+    "suggested_links": [
+      "Merge into votes-not-showing and link to the rules-check article and registration-votes page.",
+      "CTA: Contact the contest organizer/platform for a vote review; avoid selling additional votes as a remedy."
+    ]
+  },
+  {
+    "title": "Share the Official Contest Link With Real Supporters",
+    "intent": "Informational and service-adjacent; entrants seeking an easy way to direct supporters to the ballot.",
+    "angle": "Explain how to confirm the official entry URL and share it with a clear, voluntary message. Remind readers to check contest terms before offering incentives or coordinating votes; avoid spam and avoid implying that each recipient's vote is guaranteed to count.",
+    "overlap": "Overlaps entry link and message examples; combine into one useful share-kit section rather than a separate thin post.",
+    "source_urls": [
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram",
+      "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+    ],
+    "source_checked": true,
+    "unverified_sources": [],
+    "status": "merge",
+    "suggested_links": [
+      "Merge into entry-link and message-examples articles; cross-link both.",
+      "CTA: Get a share message template, if available, with a reminder to follow official rules."
+    ]
+  }
+]

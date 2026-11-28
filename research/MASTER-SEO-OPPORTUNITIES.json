@@ -1,0 +1,1897 @@
+{
+  "date": "2026-11-28",
+  "target": "https://getcontestvotesonline.com",
+  "reviewed_count": 42,
+  "opportunities": [
+    {
+      "title": "How to get votes quickly when your contest closes soon",
+      "intent": "An entrant has a verified ballot link and needs a realistic, rule-aware plan for the remaining time, including what details to send when seeking outside help.",
+      "angle": "Keep the emphasis on the entrant's immediate decisions: confirm the live round and exact closing time zone, share one direct ballot link with willing supporters, and request availability and completion timing before paying. Do not imply votes can be delivered by a guaranteed deadline or predict a win.",
+      "overlap": "Directly covered by Get's contest-voting-closes-today guide and the broader how-to-get-contest-votes guide. Keep as an existing URL/refresh target; do not create a competing article.",
+      "source_urls": [
+        "https://www.tampabayobserver.com/awards/rules/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://www.tampabayobserver.com/awards/rules/",
+          "status": "opened_successfully",
+          "note": "Official rules page opened. It gives exact nomination, voting, and winner dates, names the organizer's server as official timekeeper, and allows dates to change with notice. Useful evidence for checking the live deadline and stage; not evidence of third-party delivery availability."
+        }
+      ],
+      "status": "merge_into_existing",
+      "suggested_links": [
+        "/blog/contest-voting-closes-today/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-01",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to get votes quickly when your contest closes soon?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Keep the emphasis on the entrant's immediate decisions: confirm the live round and exact closing time zone, share one direct ballot link with willing supporters, and request availability and completion timing before paying. Do not imply votes can be delivered by a guaranteed deadline or predict a win.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "how-to-get-votes-quickly-when-your-contest-closes-soon",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "How to compare contest-vote prices on the same scope",
+      "intent": "A buyer wants an affordable option and needs to compare quote totals, deadlines, vote method, and required signup steps before choosing.",
+      "angle": "Use the same entry link, quantity, deadline, and voting requirements when comparing quotes. Ask for full price/currency, delivery window, progress updates, and applicable terms; explain why a website ballot and an email-registration ballot can involve different steps. Avoid unsupported market-price claims.",
+      "overlap": "Get already has contest-votes-pricing; realonlinevotes has contest-vote-pricing; sister contestvotesonline has a quote checklist. Preserve the existing Get URL and improve it only if it does not already fully answer quote-comparison intent.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/",
+        "https://help.woobox.com/articles/video-submissions/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://help.woobox.com/articles/voting-options/",
+          "status": "opened_successfully",
+          "note": "Official Woobox help opened; documents materially different platform vote restrictions, including IP, email, daily, and country rules. Supports comparing the actual voting workflow, not any particular market price."
+        },
+        {
+          "url": "https://help.woobox.com/articles/video-submissions/",
+          "status": "opened_successfully",
+          "note": "Official Woobox help opened; provides platform-specific format/size and approval requirements that can affect the work involved."
+        }
+      ],
+      "status": "merge_into_existing",
+      "suggested_links": [
+        "/blog/contest-votes-pricing/",
+        "/blog/email-registration-contest-votes/",
+        "/tools/vote-planner/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-02",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to compare contest-vote prices on the same scope?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Use the same entry link, quantity, deadline, and voting requirements when comparing quotes. Ask for full price/currency, delivery window, progress updates, and applicable terms; explain why a website ballot and an email-registration ballot can involve different steps. Avoid unsupported market-price claims.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "how-to-compare-contest-vote-prices-on-the-same-scope",
+      "keyword_family": [
+        "price",
+        "deadline",
+        "vote"
+      ]
+    },
+    {
+      "title": "What an up-to-100-vote free trial can and cannot tell you",
+      "intent": "A cautious buyer wants to understand the available free trial, its eligibility, and what to confirm before proceeding with a paid request.",
+      "angle": "State the existing offer accurately as up to 100 votes, subject to eligibility, contest requirements, vote type, and available time. Explain that a trial is not a promised amount, proof of final acceptance, or automatic paid order; recommend confirming the agreed amount and terms first.",
+      "overlap": "Already covered by Get's free-contest-votes-trial page and linked from its quote form. Retain that URL as the canonical trial-intent target.",
+      "source_urls": [
+        "https://www.tampabayobserver.com/awards/rules/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://www.tampabayobserver.com/awards/rules/",
+          "status": "opened_successfully",
+          "note": "Official rules opened. It explicitly prohibits purchased votes for that particular program, illustrating why eligibility/rules must be checked before offering or requesting a trial; it does not establish GCVO trial eligibility."
+        }
+      ],
+      "status": "keep_existing",
+      "suggested_links": [
+        "/blog/free-contest-votes-trial/",
+        "/request-quote/?trial=1",
+        "/service-information/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-03",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "What an up-to-100-vote free trial can and cannot tell you?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "State the existing offer accurately as up to 100 votes, subject to eligibility, contest requirements, vote type, and available time. Explain that a trial is not a promised amount, proof of final acceptance, or automatic paid order; recommend confirming the agreed amount and terms first.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "what-an-up-to-100-vote-free-trial-can-and-cannot-tell-you",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Getting votes for a local business award",
+      "intent": "A local business owner or team member is a nominee/finalist and needs to share the official ballot with genuine customers without misrepresenting the award rules.",
+      "angle": "Make it buyer-facing: verify the business is eligible and actually on the ballot, use the award's official category link, tell customers what the award means, and check whether voting is daily or single-entry. Explain that organizer rules can prohibit paid/incentivized votes and that some awards combine public votes with editorial or judge review; avoid promising that a campaign will win.",
+      "overlap": "Sister sites have broad Readers' Choice guides; Get's home copy mentions local business awards but no dedicated business-award guide. A distinct local-business buyer guide may fit if it avoids duplicating a generic Readers' Choice explainer.",
+      "source_urls": [
+        "https://www.tampabayobserver.com/awards/rules/",
+        "https://www.nshoremag.com/bons-faq/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://www.tampabayobserver.com/awards/rules/",
+          "status": "opened_successfully",
+          "note": "Official 2026 award rules opened. They describe eligibility, phases, category assignment, permitted genuine customer outreach, prohibited purchased/incentivized votes, and a mixed public/editorial winner process."
+        },
+        {
+          "url": "https://www.nshoremag.com/bons-faq/",
+          "status": "opened_successfully",
+          "note": "Official organizer FAQ opened. It says its specific award disallows buying votes or offering discounts for votes and distinguishes Readers' Choice from Editors' Choice. Rules vary by contest."
+        }
+      ],
+      "status": "candidate",
+      "suggested_links": [
+        "/blog/ask-for-votes-message-examples/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-04",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Getting votes for a local business award?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Make it buyer-facing: verify the business is eligible and actually on the ballot, use the award's official category link, tell customers what the award means, and check whether voting is daily or single-entry. Explain that organizer rules can prohibit paid/incentivized votes and that some awards combine public votes with editorial or judge review; avoid promising that a campaign will win.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "getting-votes-for-a-local-business-award",
+      "keyword_family": [
+        "business",
+        "vote"
+      ]
+    },
+    {
+      "title": "Getting votes for a business in several award categories or locations",
+      "intent": "A business with multiple branches, services, or category placements wants to direct supporters to the right listing and avoid mixing entries.",
+      "angle": "Offer a simple entry-by-entry checklist: verify the listed business/location and category, copy and test each official ballot link, prepare a short category-specific ask, and check whether category placements lock when voting begins. LNP's rules make category placement final at voting; Northshore's award says locations may be recognized separately.",
+      "overlap": "High topical overlap with sister-site Readers' Choice guides, but a practical multi-location/multi-category vote-routing angle is not apparent in Get's source inventory. Distinguish this from generic category research and avoid asserting every award permits multiple entries.",
+      "source_urls": [
+        "https://lnpmediagroup.voterfly.com/Contest-rules",
+        "https://www.nshoremag.com/bons-faq/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://lnpmediagroup.voterfly.com/Contest-rules",
+          "status": "opened_successfully",
+          "note": "Official 2026 contest rules opened. They say business category placement is final once voting begins and each person may vote once per category for that contest."
+        },
+        {
+          "url": "https://www.nshoremag.com/bons-faq/",
+          "status": "opened_successfully",
+          "note": "Official FAQ opened; it describes specific-location recognition and separate local eligibility rules."
+        }
+      ],
+      "status": "candidate_with_overlap",
+      "suggested_links": [
+        "/blog/which-contest-link-to-send/",
+        "/blog/ask-for-votes-message-examples/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-05",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Getting votes for a business in several award categories or locations?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Offer a simple entry-by-entry checklist: verify the listed business/location and category, copy and test each official ballot link, prepare a short category-specific ask, and check whether category placements lock when voting begins. LNP's rules make category placement final at voting; Northshore's award says locations may be recognized separately.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "getting-votes-for-a-business-in-several-award-categories-or-locations",
+      "keyword_family": [
+        "business",
+        "vote"
+      ]
+    },
+    {
+      "title": "My contest entry is submitted but voting has not started: what now?",
+      "intent": "An entrant has submitted an entry and wants to know when and how to begin asking for votes, or why the entry is not visible yet.",
+      "angle": "Explain the entrant's checkpoints: submission confirmation, organizer approval/moderation, placement in the correct gallery/category, opening of the voting phase, and a working direct entry link. Woobox describes separate submitted and gallery pages and says approval settings can affect visibility. Tell readers not to treat submission confirmation as proof the entry is publicly votable.",
+      "overlap": "Get's current photo-votes page and contest-link guide touch entry preparation, but no dedicated post-submission/readiness intent appears in its source inventory. Sister sites have photo guides. Keep this about entrant troubleshooting and readiness, not organizer setup instructions.",
+      "source_urls": [
+        "https://help.woobox.com/articles/pages/",
+        "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://help.woobox.com/articles/pages/",
+          "status": "opened_successfully",
+          "note": "Official Woobox help opened. It distinguishes entry/submitted pages from a Photo/Video Contest gallery with its own dates and voting options."
+        },
+        {
+          "url": "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+          "status": "opened_successfully",
+          "note": "Official Woobox setup guide opened. It describes manual approval, gallery, entry-period, and voting settings that can affect visibility. It is organizer documentation used only to explain entrant-facing checks."
+        }
+      ],
+      "status": "candidate",
+      "suggested_links": [
+        "/blog/which-contest-link-to-send/",
+        "/blog/contest-votes-not-showing/",
+        "/request-quote/?service=website"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-06",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "My contest entry is submitted but voting has not started: what now?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain the entrant's checkpoints: submission confirmation, organizer approval/moderation, placement in the correct gallery/category, opening of the voting phase, and a working direct entry link. Woobox describes separate submitted and gallery pages and says approval settings can affect visibility. Tell readers not to treat submission confirmation as proof the entry is publicly votable.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "my-contest-entry-is-submitted-but-voting-has-not-started-what-now",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "How to get votes for a video contest entry",
+      "intent": "A video-contest entrant needs to make sure supporters can open, play, and vote for the correct clip.",
+      "angle": "Keep it video-specific: test the entry page on mobile and a private browser, confirm the video is approved and playable, check whether it is a direct upload or an accepted social/hashtag entry, and share the entry-level URL rather than only a gallery or profile. Woobox documents supported direct-upload formats and a 250 MB maximum; hashtag entry has its own constraints.",
+      "overlap": "Get has a photo contest guide; sister sites have photo-vote pages, but no dedicated video-voting guide was found in these inventories. Preserve a clear video search intent and avoid duplicating the photo article's general advice.",
+      "source_urls": [
+        "https://help.woobox.com/articles/video-submissions/",
+        "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://help.woobox.com/articles/video-submissions/",
+          "status": "opened_successfully",
+          "note": "Official Woobox help opened. It documents accepted video formats/size, approval, gallery playback, and hashtag constraints."
+        },
+        {
+          "url": "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+          "status": "opened_successfully",
+          "note": "Official setup guide opened; confirms gallery, manual approval, and video entry features. Platform-specific examples should be labeled as such."
+        }
+      ],
+      "status": "candidate",
+      "suggested_links": [
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/?service=website"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-07",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to get votes for a video contest entry?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Keep it video-specific: test the entry page on mobile and a private browser, confirm the video is approved and playable, check whether it is a direct upload or an accepted social/hashtag entry, and share the entry-level URL rather than only a gallery or profile. Woobox documents supported direct-upload formats and a 250 MB maximum; hashtag entry has its own constraints.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "how-to-get-votes-for-a-video-contest-entry",
+      "keyword_family": [
+        "video",
+        "vote"
+      ]
+    },
+    {
+      "title": "Pet contest votes: check whether the contest is voted on or judged",
+      "intent": "A pet owner wants to know whether supporters can vote for their pet and what permissions/rules apply before sharing an image.",
+      "angle": "Answer the qualification question first: some pet photo contests use judges rather than public voting. Tell entrants to check winner criteria and photo/person permissions before planning outreach or seeking voting support. AKC's 2026 photo contest, for example, is judged and requires rights/permissions for depicted people and dogs; do not present that one contest's terms as universal.",
+      "overlap": "Get's inspected inventory has no pet-photo guide; pet/photo-vote articles are on the two sister domains. This would fill a Get-domain gap but has strong cross-site topic overlap, so hold until sister-site query ownership/canonical intent is reviewed. Do not state Get already has pet content.",
+      "source_urls": [
+        "https://www.akc.org/products-services/magazines/family-dog/photo-contest/rules/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://www.akc.org/products-services/magazines/family-dog/photo-contest/rules/",
+          "status": "opened_successfully",
+          "note": "Official AKC 2026 rules opened. The contest uses a judging panel and requires photo ownership/permissions for people and dogs shown. This is an example, not a general rule for pet contests."
+        }
+      ],
+      "status": "hold_cross_domain_overlap",
+      "suggested_links": [
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/?service=website"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-08",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Pet contest votes: check whether the contest is voted on or judged?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Answer the qualification question first: some pet photo contests use judges rather than public voting. Tell entrants to check winner criteria and photo/person permissions before planning outreach or seeking voting support. AKC's 2026 photo contest, for example, is judged and requires rights/permissions for depicted people and dogs; do not present that one contest's terms as universal.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "pet-contest-votes-check-whether-the-contest-is-voted-on-or-judged",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "How to get votes in a talent contest with judging rounds",
+      "intent": "A singer, dancer, performer, or other talent entrant wants to understand when public voting matters and how to ask supporters during the right round.",
+      "angle": "Frame around contest-specific rules: identify the audition/shortlist/live/final stages, determine whether audience votes decide the result or count alongside judges, then share the official link only during an eligible voting period. Avoid equating popularity with the judged outcome.",
+      "overlap": "Get's reviewed inventory has no general talent-contest guide, though a sister site covers athlete/player voting and a sister guide covers judges versus public votes. Search-result evidence was found from BBC-branded editorial guidance, but the opened URL was bbc.com.im rather than a verified canonical BBC domain; treat as unverified and do not rely on it as authority. Hold pending an authoritative organizer/platform source.",
+      "source_urls": [
+        "https://bbc.com.im/editorialguidelines/guidance/talent-searches-and-contestants",
+        "https://bbc.com.im/editorialguidelines/guidance/audience-interactivity/part-a/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://bbc.com.im/editorialguidelines/guidance/talent-searches-and-contestants",
+          "status": "fetch_failed_unverified_domain",
+          "note": "Search result returned guidance text, but opening timed out. The host is bbc.com.im, not a verified canonical BBC domain; do not cite as authoritative."
+        },
+        {
+          "url": "https://bbc.com.im/editorialguidelines/guidance/audience-interactivity/part-a/",
+          "status": "fetch_failed_unverified_domain",
+          "note": "Search result returned guidance text, but opening timed out. The host is bbc.com.im, not a verified canonical BBC domain; do not cite as authoritative."
+        }
+      ],
+      "status": "hold_source_verification",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-09",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to get votes in a talent contest with judging rounds?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Frame around contest-specific rules: identify the audition/shortlist/live/final stages, determine whether audience votes decide the result or count alongside judges, then share the official link only during an eligible voting period. Avoid equating popularity with the judged outcome.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "hold_unverified_noncanonical_source",
+      "proposed_slug": "how-to-get-votes-in-a-talent-contest-with-judging-rounds",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Getting votes for a community-choice grant or nonprofit award",
+      "intent": "A nonprofit, school-affiliated group, or community program is eligible for a public-choice award/grant and needs to direct supporters through the official nomination and voting steps.",
+      "angle": "Make this an entrant's checklist rather than organizer advice: verify eligibility, submit the nomination through the required official form, wait for confirmation/ballot listing, share the ballot link with the relevant community, and say what the award funds. The Otsego Community Foundation explicitly says social posts/comments do not count as nominations; ballot voting follows the nomination stage.",
+      "overlap": "No direct nonprofit/grant campaign guide appears in Get or the inspected sibling inventories. It is adjacent to general ask-for-votes templates; distinguish it by grant eligibility, official nomination forms, and what the award supports.",
+      "source_urls": [
+        "https://www.otsegofoundation.org/back-to-school-community-choice-grants/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://www.otsegofoundation.org/back-to-school-community-choice-grants/",
+          "status": "opened_successfully",
+          "note": "Official foundation page opened. It gives eligible organization types, nomination deadline, required official form, later ballot stage, and grant outcomes."
+        }
+      ],
+      "status": "candidate",
+      "suggested_links": [
+        "/blog/ask-for-votes-message-examples/",
+        "/blog/contest-voting-closes-today/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-10",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Getting votes for a community-choice grant or nonprofit award?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Make this an entrant's checklist rather than organizer advice: verify eligibility, submit the nomination through the required official form, wait for confirmation/ballot listing, share the ballot link with the relevant community, and say what the award funds. The Otsego Community Foundation explicitly says social posts/comments do not count as nominations; ballot voting follows the nomination stage.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "getting-votes-for-a-community-choice-grant-or-nonprofit-award",
+      "keyword_family": [
+        "nomination",
+        "vote"
+      ]
+    },
+    {
+      "title": "Community Choice votes versus judges' prizes in school awards",
+      "intent": "A shortlisted school wants to promote a public-choice award while keeping supporters clear about separate judge-selected prizes.",
+      "angle": "Explain the distinction between public vote and expert judging in plain language, then show how an entrant can share the official public-vote page and explain what that particular award decides. World\u2019s Best School Prizes says its Community Choice vote is independent of the five judged prize decisions; do not imply votes determine those main prizes.",
+      "overlap": "No school-award article appears in Get or the inspected sibling inventories. There is some thematic overlap with the sister public-vote-versus-judges explainer; hold or merge if that page already targets hybrid-award intent after full query review.",
+      "source_urls": [
+        "https://vote.worldsbestschool.org/wbsp26/terms"
+      ],
+      "source_checked": [
+        {
+          "url": "https://vote.worldsbestschool.org/wbsp26/terms",
+          "status": "opened_successfully",
+          "note": "Official 2026 rules opened. They separate the judge-selected prizes from Community Choice, specify unique email registration, keep vote totals private, and require permissions for submitted assets."
+        }
+      ],
+      "status": "candidate_with_overlap",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/ask-for-votes-message-examples/",
+        "/request-quote/"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-11",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Community Choice votes versus judges' prizes in school awards?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain the distinction between public vote and expert judging in plain language, then show how an entrant can share the official public-vote page and explain what that particular award decides. World\u2019s Best School Prizes says its Community Choice vote is independent of the five judged prize decisions; do not imply votes determine those main prizes.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "community-choice-votes-versus-judges-prizes-in-school-awards",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Why supporters cannot vote: email, location, daily limits, and shared networks",
+      "intent": "An entrant's supporters are blocked or confused by registration, country eligibility, repeat limits, or a shared IP address.",
+      "angle": "Build a troubleshooting flow: read the ballot's own error message, check whether email confirmation/login is required, verify voter-country eligibility, distinguish daily reset from one-vote-only, and consider that an IP limit may affect people sharing a workplace/school/home network. Woobox documents these as configurable settings; tell readers the organizer/platform controls the actual rules.",
+      "overlap": "Get already covers email-registration votes and daily voting; realonlinevotes covers voting rules. This is a useful merge/refresh if those pages do not sufficiently answer blocked-supporter intent; avoid creating a third general rules guide.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/"
+      ],
+      "source_checked": [
+        {
+          "url": "https://help.woobox.com/articles/voting-options/",
+          "status": "opened_successfully",
+          "note": "Official Woobox help opened. It documents IP/shared-network, Facebook-user, email, daily reset, captcha, and country geofencing settings; these are examples for Woobox Classic photo/video contests and vary by platform."
+        }
+      ],
+      "status": "merge_into_existing",
+      "suggested_links": [
+        "/blog/email-registration-contest-votes/",
+        "/blog/daily-contest-voting/",
+        "/blog/contest-votes-not-showing/",
+        "/request-quote/?service=registration"
+      ],
+      "lane": "audience-opportunities",
+      "id": "SEO-12",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Why supporters cannot vote: email, location, daily limits, and shared networks?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Build a troubleshooting flow: read the ballot's own error message, check whether email confirmation/login is required, verify voter-country eligibility, distinguish daily reset from one-vote-only, and consider that an IP limit may affect people sharing a workplace/school/home network. Woobox documents these as configurable settings; tell readers the organizer/platform controls the actual rules.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "why-supporters-cannot-vote-email-location-daily-limits-and-shared-networks",
+      "keyword_family": [
+        "country",
+        "daily",
+        "registration",
+        "vote"
+      ]
+    },
+    {
+      "title": "Does This Contest Allow Paid Votes? Check the Rules Before Ordering",
+      "intent": "Commercial investigation; establish whether a prospective contest is eligible for any paid support.",
+      "angle": "Show readers how to find the contest's own rules and check for bans on purchased or incentivized votes, eligibility requirements, and disqualification clauses. Explain that organizer-authorized in-platform vote purchases differ from third-party purchased votes. Do not recommend proceeding when the rules prohibit it.",
+      "overlap": "Adjacent to price comparison and how to get contest votes; make this a rules-first decision page rather than another generic buying guide.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+        "https://creators.maxim.com/terms",
+        "https://peopleschoice.missusa.com/legal/rules"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Link to existing price comparison only after explaining eligibility and that prices do not establish permission.",
+        "CTA: Ask support to review a public contest rules URL before any quote, if that review is actually offered."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-13",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Does This Contest Allow Paid Votes? Check the Rules Before Ordering?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Show readers how to find the contest's own rules and check for bans on purchased or incentivized votes, eligibility requirements, and disqualification clauses. Explain that organizer-authorized in-platform vote purchases differ from third-party purchased votes. Do not recommend proceeding when the rules prohibit it.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "does-this-contest-allow-paid-votes-check-the-rules-before-ordering",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "What to Have Ready for a Contest Support Eligibility Check",
+      "intent": "High-intent pre-order research from users assessing whether help is possible.",
+      "angle": "List safe, public information useful for an eligibility review: contest URL, official rules URL, platform, deadline with time zone, stated voter country limits, and per-user cap. Clearly say not to share account passwords, one-time codes, or private voter data. Only claim an eligibility check if the service provides one.",
+      "overlap": "Expands how to get contest votes and registration votes with practical intake details.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Link to registration-votes and price-comparison pages.",
+        "CTA: Submit the public contest and official rules links for an eligibility check, only if available."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-14",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "What to Have Ready for a Contest Support Eligibility Check?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "List safe, public information useful for an eligibility review: contest URL, official rules URL, platform, deadline with time zone, stated voter country limits, and per-user cap. Clearly say not to share account passwords, one-time codes, or private voter data. Only claim an eligibility check if the service provides one.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "what-to-have-ready-for-a-contest-support-eligibility-check",
+      "keyword_family": []
+    },
+    {
+      "title": "Contest Vote Packages: Compare a Quote Without Assuming a Win",
+      "intent": "Transactional comparison for visitors evaluating vote-support costs.",
+      "angle": "Explain quote components readers should compare: exact quantity, service scope, delivery estimate if confirmed, exclusions, cancellation/refund terms, and any contest-specific restrictions. Avoid publishing prices until checked against the live site and never promise a win or guaranteed placement.",
+      "overlap": "Direct overlap with existing price comparison; use as an expansion only if it adds a transparent quote checklist and verified current prices.",
+      "source_urls": [],
+      "source_checked": false,
+      "unverified_sources": [
+        "https://getcontestvotesonline.com (could not be fetched; current packages, prices, and terms remain unverified)"
+      ],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Link to existing price comparison and the relevant verified service page.",
+        "CTA: Request an itemized quote after confirming eligibility; only if this option exists."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-15",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Contest Vote Packages: Compare a Quote Without Assuming a Win?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain quote components readers should compare: exact quantity, service scope, delivery estimate if confirmed, exclusions, cancellation/refund terms, and any contest-specific restrictions. Avoid publishing prices until checked against the live site and never promise a win or guaranteed placement.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "needs_editorial_brief",
+      "proposed_slug": "contest-vote-packages-compare-a-quote-without-assuming-a-win",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "How a Contest Vote-Support Order Works: Quote, Approval, and Receipt",
+      "intent": "Transactional; answer process and purchase-confidence questions.",
+      "angle": "Document only the real steps after inspecting the service: request, compatibility decision, confirmed scope and price, customer approval, payment, status updates, and receipt. Include cancellation/refund terms verbatim or accurately summarized. Do not invent steps, delivery windows, or guarantees.",
+      "overlap": "Expands price comparison and how to get contest votes; should be merged into an existing order-process page if one exists.",
+      "source_urls": [],
+      "source_checked": false,
+      "unverified_sources": [
+        "https://getcontestvotesonline.com (could not be fetched; actual order flow and terms remain unverified)"
+      ],
+      "status": "hold",
+      "suggested_links": [
+        "Link to the relevant verified service page and price comparison.",
+        "CTA: Begin the verified request flow; do not imply a quote or order step that the site lacks."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-16",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How a Contest Vote-Support Order Works: Quote, Approval, and Receipt?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Document only the real steps after inspecting the service: request, compatibility decision, confirmed scope and price, customer approval, payment, status updates, and receipt. Include cancellation/refund terms verbatim or accurately summarized. Do not invent steps, delivery windows, or guarantees.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "needs_editorial_brief",
+      "proposed_slug": "how-a-contest-vote-support-order-works-quote-approval-and-receipt",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Can Voters From Your Country Participate? Check Contest Eligibility First",
+      "intent": "Commercial research from customers whose contest has geographic restrictions.",
+      "angle": "Explain that organizers can restrict participation or voting by country, and that a location mismatch may make votes invalid. Encourage checking official contest terms and asking the organizer when unclear. Do not imply that geographic targeting is available from the service unless verified.",
+      "overlap": "Expands registration-votes and how to get contest votes with a country-eligibility focus.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Link to registration-votes and the existing entry-link guide.",
+        "CTA: Send the public rules URL to check country eligibility, only if this service is offered."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-17",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Can Voters From Your Country Participate? Check Contest Eligibility First?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain that organizers can restrict participation or voting by country, and that a location mismatch may make votes invalid. Encourage checking official contest terms and asking the organizer when unclear. Do not imply that geographic targeting is available from the service unless verified.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "can-voters-from-your-country-participate-check-contest-eligibility-first",
+      "keyword_family": [
+        "country",
+        "vote"
+      ]
+    },
+    {
+      "title": "Daily Voting Limits: Plan a Reminder Schedule Around the Official Rules",
+      "intent": "Informational with service consideration; help users plan compliant reminders.",
+      "angle": "Explain that caps and reset periods are contest-specific. Build a reminder schedule for willing, eligible supporters using the published rules; avoid automated voting or tactics that simulate unique voters. Mention organizer rules may distinguish ordinary reminders from paid or incentivized voting.",
+      "overlap": "Strong overlap with daily reminders and message examples; expand or merge rather than publish a near-duplicate.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462114-How-to-create-a-Voting-Contest-based-on-the-Pick-your-favorite-concept",
+        "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "merge",
+      "suggested_links": [
+        "Merge into the daily-reminders article and link to existing message examples.",
+        "CTA: Get help preparing a compliant reminder plan, only if offered."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-18",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Daily Voting Limits: Plan a Reminder Schedule Around the Official Rules?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain that caps and reset periods are contest-specific. Build a reminder schedule for willing, eligible supporters using the published rules; avoid automated voting or tactics that simulate unique voters. Mention organizer rules may distinguish ordinary reminders from paid or incentivized voting.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "daily-voting-limits-plan-a-reminder-schedule-around-the-official-rules",
+      "keyword_family": [
+        "daily"
+      ]
+    },
+    {
+      "title": "Contest Closes Tonight: Deadline and Time-Zone Checklist",
+      "intent": "Urgent commercial; visitors checking whether support can fit a closing deadline.",
+      "angle": "Walk through confirming the official deadline's time zone, the last valid submission time, any email verification step, and whether votes must be validated before close. Make no instant-delivery or feasibility claim unless a current, contest-specific quote confirms it.",
+      "overlap": "Direct overlap with closes-today; add a deadline checklist to that page instead of creating a thin duplicate.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+      ],
+      "source_checked": true,
+      "unverified_sources": [
+        "https://getcontestvotesonline.com (could not be fetched; delivery capability and turnaround claims remain unverified)"
+      ],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Expand the closes-today article and link to the contest entry-link page.",
+        "CTA: Ask for a deadline-specific feasibility check, if offered; do not guarantee completion."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-19",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Contest Closes Tonight: Deadline and Time-Zone Checklist?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Walk through confirming the official deadline's time zone, the last valid submission time, any email verification step, and whether votes must be validated before close. Make no instant-delivery or feasibility claim unless a current, contest-specific quote confirms it.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "contest-closes-tonight-deadline-and-time-zone-checklist",
+      "keyword_family": [
+        "deadline"
+      ]
+    },
+    {
+      "title": "Why Contest Votes May Not Appear or Count",
+      "intent": "Troubleshooting; users may be considering additional paid support after a vote issue.",
+      "angle": "Cover rule-based causes such as a closed voting window, country restriction, per-user cap, unverified email, invalid-vote review, or platform display delay. Direct readers to the organizer/platform for status. Do not frame purchasing more votes as a fix or advise evading filters.",
+      "overlap": "Direct overlap with votes-not-showing; expand that article with sourced causes and a clear troubleshooting sequence.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007560293-How-to-restrict-or-limit-participation-in-a-campaign",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Expand the votes-not-showing article and link to registration-votes and the entry-link guide.",
+        "CTA: Contact the contest organizer or support with the public contest URL and error details."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-20",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Why Contest Votes May Not Appear or Count?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Cover rule-based causes such as a closed voting window, country restriction, per-user cap, unverified email, invalid-vote review, or platform display delay. Direct readers to the organizer/platform for status. Do not frame purchasing more votes as a fix or advise evading filters.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "why-contest-votes-may-not-appear-or-count",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Photo Contest Voting: Check the Gallery, Entry Status, and Voting Dates",
+      "intent": "Contest-specific informational/commercial; photo entrants looking for practical next steps.",
+      "angle": "Explain common photo-contest mechanics: public entries or gallery visibility, voting window dates, and per-user limits. Ask readers to verify their own contest configuration and rules; do not make generic promises about supported platforms.",
+      "overlap": "Directly overlaps the existing photo-contest votes topic; add a mechanics/rules section to that page.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462114-How-to-create-a-Voting-Contest-based-on-the-Pick-your-favorite-concept"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "merge",
+      "suggested_links": [
+        "Merge into the existing photo-contest-votes article and link to the entry-link page.",
+        "CTA: Submit the public contest link for eligibility review, only if offered."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-21",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Photo Contest Voting: Check the Gallery, Entry Status, and Voting Dates?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain common photo-contest mechanics: public entries or gallery visibility, voting window dates, and per-user limits. Ask readers to verify their own contest configuration and rules; do not make generic promises about supported platforms.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "photo-contest-voting-check-the-gallery-entry-status-and-voting-dates",
+      "keyword_family": [
+        "photo"
+      ]
+    },
+    {
+      "title": "Does the Ballot Require Registration or Email Verification?",
+      "intent": "Commercial investigation; clarify friction and validity requirements before deciding next steps.",
+      "angle": "Describe common sign-in approaches and why email verification can be required. Tell readers to use their own legitimate account and follow the contest flow; do not offer account creation, fake identities, or verification bypasses.",
+      "overlap": "Direct overlap with registration-votes; expand that page with ballot-specific registration and verification questions.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/9575923670684-Types-of-login-available-to-identify-your-campaign-participants",
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "expand_existing",
+      "suggested_links": [
+        "Expand registration-votes and link to the entry-link and votes-not-showing pages.",
+        "CTA: Ask support whether a contest's published registration flow is compatible, if this check is offered."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-22",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Does the Ballot Require Registration or Email Verification?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Describe common sign-in approaches and why email verification can be required. Tell readers to use their own legitimate account and follow the contest flow; do not offer account creation, fake identities, or verification bypasses.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "does-the-ballot-require-registration-or-email-verification",
+      "keyword_family": [
+        "registration"
+      ]
+    },
+    {
+      "title": "Votes Were Removed: What to Review Before Taking Further Action",
+      "intent": "Urgent support and recovery research; readers worried about loss or disqualification.",
+      "angle": "Advise reviewing official rules and organizer notices, checking allowed countries and voting limits, and contacting the organizer. State that some organizers explicitly ban purchased votes and may disqualify entrants; never recommend retrying through alternate accounts, locations, or evasion methods.",
+      "overlap": "Overlaps votes-not-showing; make this a section there unless search data shows distinct demand.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007461794-How-to-avoid-fraud-in-your-campaign",
+        "https://creators.maxim.com/terms",
+        "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "merge",
+      "suggested_links": [
+        "Merge into votes-not-showing and link to the rules-check article and registration-votes page.",
+        "CTA: Contact the contest organizer/platform for a vote review; avoid selling additional votes as a remedy."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-23",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Votes Were Removed: What to Review Before Taking Further Action?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Advise reviewing official rules and organizer notices, checking allowed countries and voting limits, and contacting the organizer. State that some organizers explicitly ban purchased votes and may disqualify entrants; never recommend retrying through alternate accounts, locations, or evasion methods.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "votes-were-removed-what-to-review-before-taking-further-action",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Share the Official Contest Link With Real Supporters",
+      "intent": "Informational and service-adjacent; entrants seeking an easy way to direct supporters to the ballot.",
+      "angle": "Explain how to confirm the official entry URL and share it with a clear, voluntary message. Remind readers to check contest terms before offering incentives or coordinating votes; avoid spam and avoid implying that each recipient's vote is guaranteed to count.",
+      "overlap": "Overlaps entry link and message examples; combine into one useful share-kit section rather than a separate thin post.",
+      "source_urls": [
+        "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram",
+        "https://support.reddithelp.com/hc/en-us/articles/360043066412-Disrupting-Communities"
+      ],
+      "source_checked": true,
+      "unverified_sources": [],
+      "status": "merge",
+      "suggested_links": [
+        "Merge into entry-link and message-examples articles; cross-link both.",
+        "CTA: Get a share message template, if available, with a reminder to follow official rules."
+      ],
+      "lane": "commercial-opportunities",
+      "id": "SEO-24",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Share the Official Contest Link With Real Supporters?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain how to confirm the official entry URL and share it with a clear, voluntary message. Remind readers to check contest terms before offering incentives or coordinating votes; avoid spam and avoid implying that each recipient's vote is guaranteed to count.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "share-the-official-contest-link-with-real-supporters",
+      "keyword_family": []
+    },
+    {
+      "title": "Woobox Photo Contest vs Poll: Which Voting Format Is Your Entry In?",
+      "intent": "A contestant searching how Woobox voting works, whether a Woobox poll is the same as a photo contest, or how supporters should find their entry.",
+      "angle": "Explain from the entrant's perspective that a photo/video gallery may let people vote once for each submission, while a poll presents organizer-uploaded choices and can restrict a voter to one choice. Direct readers to verify the exact category, entry page, and contest rules before sharing a link.",
+      "overlap": "Low. Platform-specific format intent; complement the broad photo-contest-votes article rather than repeat its promotion advice.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/",
+        "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-25",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Photo Contest vs Poll: Which Voting Format Is Your Entry In?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain from the entrant's perspective that a photo/video gallery may let people vote once for each submission, while a poll presents organizer-uploaded choices and can restrict a voter to one choice. Direct readers to verify the exact category, entry page, and contest rules before sharing a link.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-photo-contest-vs-poll-which-voting-format-is-your-entry-in",
+      "keyword_family": [
+        "photo",
+        "woobox"
+      ]
+    },
+    {
+      "title": "My Woobox Photo Contest Entry Is Missing from the Gallery: What Can I Check?",
+      "intent": "An entrant looking for help because a submitted photo is not visible or cannot be found for voting.",
+      "angle": "Give entrants a short check sequence: confirm the right contest/category and gallery dates, reopen the direct entry link, then ask the organizer whether submission approval is pending. Explain that only the organizer can approve or change campaign visibility.",
+      "overlap": "High with existing /blog/contest-votes-not-showing/ and merged with the adjacent manual-approval brief below; reviewed separately, retain as a low-priority search-query variant that should redirect or be folded into one combined article.",
+      "source_urls": [
+        "https://help.woobox.com/articles/where-are-the-photos-in-my-photo-contest/",
+        "https://help.woobox.com/articles/gallery-options/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "merged-reviewed; combine with Woobox manual-approval brief; low priority",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-26",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "My Woobox Photo Contest Entry Is Missing from the Gallery: What Can I Check?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Give entrants a short check sequence: confirm the right contest/category and gallery dates, reopen the direct entry link, then ask the organizer whether submission approval is pending. Explain that only the organizer can approve or change campaign visibility.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "my-woobox-photo-contest-entry-is-missing-from-the-gallery-what-can-i-check",
+      "keyword_family": [
+        "photo",
+        "woobox"
+      ]
+    },
+    {
+      "title": "When Do Woobox Daily Votes Reset? Check the Contest's Time Zone",
+      "intent": "A contestant or supporter searching when they can vote again in a Woobox daily-vote contest.",
+      "angle": "Clarify that Woobox's documented daily-voting setting resets at 12 AM Pacific Time, while the contest's own eligibility rules and displayed deadline still control. Offer a simple note-taking method for the reset time and local equivalent; do not encourage repeat-vote workarounds.",
+      "overlap": "Medium with /blog/daily-contest-voting/ and /blog/contest-voting-closes-today/. Keep this as a Woobox-specific timezone answer and link to the broader reminder guide.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/daily-contest-voting/",
+        "/blog/contest-voting-closes-today/",
+        "/request-quote/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-27",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "When Do Woobox Daily Votes Reset? Check the Contest's Time Zone?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Clarify that Woobox's documented daily-voting setting resets at 12 AM Pacific Time, while the contest's own eligibility rules and displayed deadline still control. Offer a simple note-taking method for the reset time and local equivalent; do not encourage repeat-vote workarounds.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "when-do-woobox-daily-votes-reset-check-the-contest-s-time-zone",
+      "keyword_family": [
+        "daily",
+        "woobox",
+        "vote"
+      ]
+    },
+    {
+      "title": "Woobox Vote Limits Explained: Email, IP Address, and Facebook Login",
+      "intent": "A contestant asking why supporters cannot vote, why a household appears to share a limit, or what one-vote-per-person means on Woobox.",
+      "angle": "Translate the platform's documented restriction choices into plain language, including that IP limits can affect people sharing a home, school, or office network and Facebook-user limits require login/authorization. Center the entrant on checking organizer rules or contacting the contest owner; no bypass advice.",
+      "overlap": "Medium with existing vote-troubleshooting and registration posts. Prioritize only if Search Console shows Woobox-specific queries; otherwise add as a section in the troubleshooting guide.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/",
+        "https://help.woobox.com/articles/disable-facebook-app-authorization/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/email-registration-contest-votes/",
+        "/blog/daily-contest-voting/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-28",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Vote Limits Explained: Email, IP Address, and Facebook Login?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Translate the platform's documented restriction choices into plain language, including that IP limits can affect people sharing a home, school, or office network and Facebook-user limits require login/authorization. Center the entrant on checking organizer rules or contacting the contest owner; no bypass advice.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-vote-limits-explained-email-ip-address-and-facebook-login",
+      "keyword_family": [
+        "woobox",
+        "facebook",
+        "vote"
+      ]
+    },
+    {
+      "title": "Woobox Vote Not Counted? What an Entrant Can Document for the Organizer",
+      "intent": "A contestant asking why a Woobox vote did not appear or how to report a disputed count.",
+      "angle": "Recommend recording the entry URL, category/round, time, displayed confirmation, and any relevant error, then asking the organizer to check its vote records. Explain that organizer exports may show blocked-vote indicators, but a shared IP can also be legitimate and a public count alone cannot identify voters.",
+      "overlap": "High with /blog/contest-votes-not-showing/. Treat this as an expansion of that page unless Woobox-specific search demand justifies a standalone URL.",
+      "source_urls": [
+        "https://help.woobox.com/articles/addressing-voting-fraud-and-cheating-in-contests/",
+        "https://help.woobox.com/articles/voting-options/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority; preferred as a section in existing troubleshooting article",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/which-contest-link-to-send/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-29",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Vote Not Counted? What an Entrant Can Document for the Organizer?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Recommend recording the entry URL, category/round, time, displayed confirmation, and any relevant error, then asking the organizer to check its vote records. Explain that organizer exports may show blocked-vote indicators, but a shared IP can also be legitimate and a public count alone cannot identify voters.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-vote-not-counted-what-an-entrant-can-document-for-the-organizer",
+      "keyword_family": [
+        "woobox",
+        "vote"
+      ]
+    },
+    {
+      "title": "Why a Woobox Contest Asks Voters to Log In with Facebook",
+      "intent": "A contestant or voter searching why a Woobox ballot requires Facebook login or authorization.",
+      "angle": "Explain the documented connection between Facebook-user voting restrictions and login/authorization, and advise entrants to share the platform's actual voter steps before asking for support. Mention that organizers can choose different restrictions, but an entrant cannot change them.",
+      "overlap": "Low to medium with /blog/email-registration-contest-votes/. Distinct provider/login requirement, but consider a combined account-and-confirmation troubleshooting hub if traffic is small.",
+      "source_urls": [
+        "https://help.woobox.com/articles/disable-facebook-app-authorization/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority",
+      "suggested_links": [
+        "/blog/email-registration-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/blog/ask-for-votes-message-examples/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-30",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Why a Woobox Contest Asks Voters to Log In with Facebook?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain the documented connection between Facebook-user voting restrictions and login/authorization, and advise entrants to share the platform's actual voter steps before asking for support. Mention that organizers can choose different restrictions, but an entrant cannot change them.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "why-a-woobox-contest-asks-voters-to-log-in-with-facebook",
+      "keyword_family": [
+        "woobox",
+        "facebook",
+        "vote"
+      ]
+    },
+    {
+      "title": "Woobox Finalist Rounds: What a Vote Cap Means for Your Entry",
+      "intent": "A contestant searching how Woobox vote caps, hidden entries, or finalist stages affect their chances and share link.",
+      "angle": "Explain that organizers can set a maximum vote count and may hide an entry from the gallery until it reaches that threshold, while a unique submission URL can still allow voting. Tell entrants to confirm whether the cap is a qualifying threshold, a finalist rule, or a campaign-specific display choice.",
+      "overlap": "Low. Adds a platform mechanic and stage-specific search intent not covered by existing general vote-target guidance.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/",
+        "https://help.woobox.com/articles/gallery-options/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/request-quote/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-31",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Finalist Rounds: What a Vote Cap Means for Your Entry?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain that organizers can set a maximum vote count and may hide an entry from the gallery until it reaches that threshold, while a unique submission URL can still allow voting. Tell entrants to confirm whether the cap is a qualifying threshold, a finalist rule, or a campaign-specific display choice.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-finalist-rounds-what-a-vote-cap-means-for-your-entry",
+      "keyword_family": [
+        "woobox",
+        "vote"
+      ]
+    },
+    {
+      "title": "Woobox Manual Approval: Why a Photo May Wait Before Voting Opens",
+      "intent": "An entrant searching whether their photo is approved, why it is hidden, or when it will appear in a Woobox gallery.",
+      "angle": "Cover the submission-to-approval-to-gallery sequence from the contestant's perspective; point out what to check and what to ask the organizer. Include practical explanation that approval and gallery visibility are organizer controls.",
+      "overlap": "High with the missing-gallery brief above and /blog/contest-votes-not-showing/. This record is kept for review but should merge into one entrant-facing article, not create a separate URL.",
+      "source_urls": [
+        "https://help.woobox.com/articles/gallery-options/",
+        "https://help.woobox.com/articles/where-are-the-photos-in-my-photo-contest/",
+        "https://help.woobox.com/articles/managing-deleting-images-in-a-ugc-contest/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "merged-reviewed; combine with Woobox missing-gallery brief; low priority",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/photo-contest-votes/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-32",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Manual Approval: Why a Photo May Wait Before Voting Opens?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Cover the submission-to-approval-to-gallery sequence from the contestant's perspective; point out what to check and what to ask the organizer. Include practical explanation that approval and gallery visibility are organizer controls.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-manual-approval-why-a-photo-may-wait-before-voting-opens",
+      "keyword_family": [
+        "photo",
+        "woobox"
+      ]
+    },
+    {
+      "title": "Does the Highest Woobox Vote Count Win? Check the Contest's Winner Rules",
+      "intent": "A contestant asking whether public votes decide a Woobox contest, select finalists, or only support a random drawing.",
+      "angle": "Separate platform features from contest outcome: Woobox supports top-vote selection for some UGC contests and random winner selection for entrant pools, but the organizer's rules establish the actual method. Give entrants a checklist for checking judging weight, tie handling, and round stage.",
+      "overlap": "Low. Strong contest-mechanics question, distinct from asking how many votes are needed.",
+      "source_urls": [
+        "https://help.woobox.com/articles/how-can-i-pick-a-winner/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-33",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Does the Highest Woobox Vote Count Win? Check the Contest's Winner Rules?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Separate platform features from contest outcome: Woobox supports top-vote selection for some UGC contests and random winner selection for entrant pools, but the organizer's rules establish the actual method. Give entrants a checklist for checking judging weight, tie handling, and round stage.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "does-the-highest-woobox-vote-count-win-check-the-contest-s-winner-rules",
+      "keyword_family": [
+        "woobox",
+        "vote"
+      ]
+    },
+    {
+      "title": "Woobox Entry Share Link vs. Gallery Link: Which Should You Send Voters?",
+      "intent": "A contestant looking for the right Woobox link to share so supporters reach the correct entry directly.",
+      "angle": "Explain the difference between a campaign homepage/gallery link and a unique submission URL, how a voter can check the entry name and category, and why to test the link in a private window before sending it. Keep the guidance platform-specific.",
+      "overlap": "High with /blog/which-contest-link-to-send/. Do not make a new page unless platform-specific search data supports it; otherwise add a Woobox example to the existing link guide.",
+      "source_urls": [
+        "https://help.woobox.com/articles/gallery-options/",
+        "https://help.woobox.com/articles/share-elements/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority; preferred as a platform example in existing entry-link guide",
+      "suggested_links": [
+        "/blog/which-contest-link-to-send/",
+        "/blog/ask-for-votes-message-examples/",
+        "/blog/photo-contest-votes/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-34",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Woobox Entry Share Link vs. Gallery Link: Which Should You Send Voters?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain the difference between a campaign homepage/gallery link and a unique submission URL, how a voter can check the entry name and category, and why to test the link in a private window before sending it. Keep the guidance platform-specific.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "woobox-entry-share-link-vs-gallery-link-which-should-you-send-voters",
+      "keyword_family": [
+        "woobox",
+        "vote"
+      ]
+    },
+    {
+      "title": "Crowdsignal Poll Embed Not Showing? Check Cookies and the Direct Poll Link",
+      "intent": "A contestant or supporter searching why an embedded Crowdsignal ballot is blank, unavailable, or not loading.",
+      "angle": "Explain Crowdsignal's documented cookie requirement for embedded polls, suggest checking the browser and opening the organizer's direct poll link to diagnose the display issue, and remind entrants to report persistent failures to the poll owner.",
+      "overlap": "Medium with /blog/contest-votes-not-showing/. Narrow widget-loading issue; prioritize only if CrowdSignal-specific query demand is present.",
+      "source_urls": [
+        "https://crowdsignal.com/support/creating-a-poll/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/which-contest-link-to-send/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-35",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Crowdsignal Poll Embed Not Showing? Check Cookies and the Direct Poll Link?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain Crowdsignal's documented cookie requirement for embedded polls, suggest checking the browser and opening the organizer's direct poll link to diagnose the display issue, and remind entrants to report persistent failures to the poll owner.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "crowdsignal-poll-embed-not-showing-check-cookies-and-the-direct-poll-link",
+      "keyword_family": [
+        "crowdsignal"
+      ]
+    },
+    {
+      "title": "Crowdsignal Poll Vote Limits: What Repeat Voters Should Know",
+      "intent": "A contestant or voter searching whether a Crowdsignal poll allows repeat votes or needs email, IP, password, or CAPTCHA verification.",
+      "angle": "Summarize the platform's available poll restrictions and explain that the organizer selects them; a voter should follow the displayed rule and ask the poll owner if blocked. Make clear that platform anti-abuse controls do not promise that every ballot has identical settings.",
+      "overlap": "Medium with /blog/contest-votes-not-showing/ and /blog/email-registration-contest-votes/. A Crowdsignal-specific standalone page needs demonstrated demand; otherwise add a short FAQ section to troubleshooting.",
+      "source_urls": [
+        "https://crowdsignal.com/support/creating-a-poll/",
+        "https://crowdsignal.com/faq/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority",
+      "suggested_links": [
+        "/blog/contest-votes-not-showing/",
+        "/blog/email-registration-contest-votes/",
+        "/blog/daily-contest-voting/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-36",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Crowdsignal Poll Vote Limits: What Repeat Voters Should Know?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Summarize the platform's available poll restrictions and explain that the organizer selects them; a voter should follow the displayed rule and ask the poll owner if blocked. Make clear that platform anti-abuse controls do not promise that every ballot has identical settings.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "crowdsignal-poll-vote-limits-what-repeat-voters-should-know",
+      "keyword_family": [
+        "crowdsignal",
+        "vote"
+      ]
+    },
+    {
+      "title": "WhatsApp Poll vs. Contest Voting Link: Where Does Your Vote Count?",
+      "intent": "A contestant asking whether a WhatsApp poll vote counts in an online contest or how to ask WhatsApp supporters to use a contest ballot.",
+      "angle": "Distinguish informal group/channel polls from votes recorded on the contest's official ballot. Explain that WhatsApp polls can be multi-answer or single-answer and channel polls have their own visibility rules; neither should be assumed to feed an external contest tally. Recommend sharing the official entry link and following the contest rules.",
+      "overlap": "Low to medium with /blog/which-contest-link-to-send/ and /blog/ask-for-votes-message-examples/. A social-platform comparison with a concrete clarification, likely useful as a new entrant-intent page.",
+      "source_urls": [
+        "https://faq.whatsapp.com/796470361614974/?cms_platform=mac-desktop&helpref=platform_switcher",
+        "https://faq.whatsapp.com/223836640775084/?cms_platform=web",
+        "https://crowdsignal.com/support/creating-a-poll/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/which-contest-link-to-send/",
+        "/blog/ask-for-votes-message-examples/",
+        "/blog/how-to-get-contest-votes/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-37",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "WhatsApp Poll vs. Contest Voting Link: Where Does Your Vote Count?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Distinguish informal group/channel polls from votes recorded on the contest's official ballot. Explain that WhatsApp polls can be multi-answer or single-answer and channel polls have their own visibility rules; neither should be assumed to feed an external contest tally. Recommend sharing the official entry link and following the contest rules.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "whatsapp-poll-vs-contest-voting-link-where-does-your-vote-count",
+      "keyword_family": [
+        "whatsapp",
+        "vote"
+      ]
+    },
+    {
+      "title": "Free Votes vs. Donation Votes: Read the Fundraiser Contest Rules First",
+      "intent": "A contestant or supporter asking whether votes are free, whether a donation is required, how optional donation votes work, or where the money goes.",
+      "angle": "Use named official contest examples to show that rules can differ: some allow a free daily vote plus optional donation-associated votes; others require donation per vote. Explain that the exact official rules control eligibility, resets, refunds, and recipient of funds; never promise that payment guarantees a win or encourage prohibited self-voting or manipulation.",
+      "overlap": "Medium with /blog/contest-votes-pricing/ and /blog/free-contest-votes-trial/. Different intent: the cost and rules of the contest ballot, not this site's service pricing or trial offer.",
+      "source_urls": [
+        "https://contest.globalspalliance.com/Contest2026/faq",
+        "https://contest.globalspalliance.com/Contest2026/terms",
+        "https://support.gogophotocontest.com/hc/en-us/articles/4409732005267-Can-I-have-free-voting-in-my-contest",
+        "https://www.gogophotocontest.com/btpm/pages/24384"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority; require careful attribution to named examples and recheck live contest rules before publication",
+      "suggested_links": [
+        "/blog/contest-votes-pricing/",
+        "/blog/free-contest-votes-trial/",
+        "/blog/daily-contest-voting/",
+        "/request-quote/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-38",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Free Votes vs. Donation Votes: Read the Fundraiser Contest Rules First?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Use named official contest examples to show that rules can differ: some allow a free daily vote plus optional donation-associated votes; others require donation per vote. Explain that the exact official rules control eligibility, resets, refunds, and recipient of funds; never promise that payment guarantees a win or encourage prohibited self-voting or manipulation.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "free-votes-vs-donation-votes-read-the-fundraiser-contest-rules-first",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Do Contest Votes Reset Between Rounds? Check What Carries Forward",
+      "intent": "A contestant searching whether votes carry over, reset, or partially carry between semifinals, cuts, and a final round.",
+      "angle": "Explain that round mechanics vary by contest: votes may reset, partially carry, or be treated differently at a cut. Show where to find the advancement rule and how to track the current round, date/time zone, and certified count without treating a previous-round lead as a forecast.",
+      "overlap": "Medium with /blog/daily-contest-voting/ and /blog/contest-voting-closes-today/. Distinct stage-transition intent; include examples only as dated examples and not universal rules.",
+      "source_urls": [
+        "https://contest.globalspalliance.com/Contest2026/faq",
+        "https://wonderfulweekend.org/rules",
+        "https://www.nbc.com/ASCVoteRules"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/daily-contest-voting/",
+        "/blog/contest-voting-closes-today/",
+        "/blog/how-to-get-contest-votes/",
+        "/tools/vote-planner/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-39",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Do Contest Votes Reset Between Rounds? Check What Carries Forward?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain that round mechanics vary by contest: votes may reset, partially carry, or be treated differently at a cut. Show where to find the advancement rule and how to track the current round, date/time zone, and certified count without treating a previous-round lead as a forecast.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "do-contest-votes-reset-between-rounds-check-what-carries-forward",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "How to Get Votes for a Video Contest Entry: Check the Supported Link",
+      "intent": "A video-contest entrant looking for how to share their clip, why a video entry is not visible, or whether Reels/Stories count as contest entries.",
+      "angle": "Help entrants identify the accepted entry format and direct video/gallery URL. Use Woobox as a specific example: direct uploads have file requirements; hashtag submissions accept certain Instagram post types while Stories, boosted posts/ads, and temporary posts are unsupported. Clarify that the actual contest's requirements are decisive.",
+      "overlap": "Medium with /blog/photo-contest-votes/ and /blog/which-contest-link-to-send/. Distinct video-platform eligibility questions; avoid repeating general promotion tips.",
+      "source_urls": [
+        "https://help.woobox.com/articles/video-submissions/",
+        "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/photo-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/blog/contest-votes-not-showing/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-40",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to Get Votes for a Video Contest Entry: Check the Supported Link?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Help entrants identify the accepted entry format and direct video/gallery URL. Use Woobox as a specific example: direct uploads have file requirements; hashtag submissions accept certain Instagram post types while Stories, boosted posts/ads, and temporary posts are unsupported. Clarify that the actual contest's requirements are decisive.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "how-to-get-votes-for-a-video-contest-entry-check-the-supported-link",
+      "keyword_family": [
+        "video",
+        "vote"
+      ]
+    },
+    {
+      "title": "How to Get Votes for a Music Contest: Public Voting, Juries, and Eligibility",
+      "intent": "A singer, songwriter, or fan searching how online music-contest voting works, whether public votes decide the winner, and how to share an eligible ballot.",
+      "angle": "Explain that music competitions may combine a public vote with professional jury scoring, use app/SMS/online channels, or restrict voters by country. Use Eurovision as a clearly labeled example, then direct readers to the specific contest's voting method, schedule, scoring, and country restrictions before sharing. Don't imply one competition's rules apply to all music contests.",
+      "overlap": "Medium with /blog/how-to-get-contest-votes/ and /blog/which-contest-link-to-send/. Strong niche content if the site wants musician/talent-contest traffic; keep the example bounded to its source.",
+      "source_urls": [
+        "https://www.eurovision.com/faqs/",
+        "https://www.eurovision.com/newsroom/rules-of-the-contest/",
+        "https://help.nbc.com/hc/en-us/articles/4825831533335-Voting-for-American-Song-Contest"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "low-priority; niche expansion, verify current edition rules before publication",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/blog/ask-for-votes-message-examples/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-41",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "How to Get Votes for a Music Contest: Public Voting, Juries, and Eligibility?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Explain that music competitions may combine a public vote with professional jury scoring, use app/SMS/online channels, or restrict voters by country. Use Eurovision as a clearly labeled example, then direct readers to the specific contest's voting method, schedule, scoring, and country restrictions before sharing. Don't imply one competition's rules apply to all music contests.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "how-to-get-votes-for-a-music-contest-public-voting-juries-and-eligibility",
+      "keyword_family": [
+        "vote"
+      ]
+    },
+    {
+      "title": "Can People in Other Countries Vote for Your Contest Entry? Check Eligibility First",
+      "intent": "A contestant asking whether overseas supporters can vote, why a foreign supporter is blocked, or whether a voting link is region-restricted.",
+      "angle": "Separate the contest's voter-eligibility rules from a platform's technical country restriction. Use Woobox geofencing and two contrasting official contest examples to show that worldwide voting is not a safe assumption; advise entrants to check residency, location, and method restrictions before inviting overseas supporters.",
+      "overlap": "Low. New regional-eligibility intent, not currently represented in the listed blog posts.",
+      "source_urls": [
+        "https://help.woobox.com/articles/voting-options/",
+        "https://contest.globalspalliance.com/Contest2026/faq",
+        "https://www.eurovision.com/faqs/",
+        "https://help.nbc.com/hc/en-us/articles/4825831533335-Voting-for-American-Song-Contest"
+      ],
+      "source_checked": "2026-11-28",
+      "status": "priority",
+      "suggested_links": [
+        "/blog/how-to-get-contest-votes/",
+        "/blog/which-contest-link-to-send/",
+        "/blog/contest-votes-not-showing/",
+        "/request-quote/"
+      ],
+      "lane": "platform-opportunities",
+      "id": "SEO-42",
+      "research_date": "2026-11-28",
+      "demand_evidence": "Qualitative search intent and source review; keyword volume and ranking upside not measured.",
+      "publication_gate": [
+        "Verify the exact official source and current edition",
+        "Check Get and sister-site overlap; choose new page or expand existing",
+        "Write original examples; no copied paragraphs or inherited testimonials",
+        "Match CTA to actual service; no invented prices or response-time promises",
+        "Add at least two relevant internal links and one contextual contact route"
+      ],
+      "reader_question": "Can People in Other Countries Vote for Your Contest Entry? Check Eligibility First?",
+      "suggested_outline": [
+        "Direct answer to the reader question",
+        "Separate the contest's voter-eligibility rules from a platform's technical country restriction. Use Woobox geofencing and two contrasting official contest examples to show that worldwide voting is not a safe assumption; advise entrants to check residency, location, and method restrictions before inviting overseas supporters.",
+        "A specific worked example or checklist",
+        "What to send if requesting help",
+        "Related guide and contact next step"
+      ],
+      "contact_route": "/request-quote/ for service enquiries; mailto:admin@getcontestvotesonline.com for existing-order questions; organiser support for vote-record disputes.",
+      "draft_readiness": "source_reviewed_candidate_not_publish_approved",
+      "proposed_slug": "can-people-in-other-countries-vote-for-your-contest-entry-check-eligibility-first",
+      "keyword_family": [
+        "vote"
+      ]
+    }
+  ]
+}

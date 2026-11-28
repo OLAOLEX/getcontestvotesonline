@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Running for More Than One Business Award? Keep Each Category Clear",
+    "slug": "multiple-business-award-categories",
+    "reader": "Business owner with multiple categories or branches",
+    "outline": [
+      "One business, several ballot entries: what can go wrong",
+      "Build a location/category/link table",
+      "Choose which request each customer sees",
+      "Avoid dividing supporters between the wrong rounds",
+      "Example: two branches and three categories",
+      "What to include in a multi-entry quote"
+    ],
+    "links": [
+      "/blog/which-contest-link-to-send/",
+      "/blog/ask-for-votes-message-examples/"
+    ],
+    "cta": "Send the entry list and deadline with one quote request",
+    "source_match": "category",
+    "candidate_ids": [
+      "SEO-04",
+      "SEO-05",
+      "SEO-06",
+      "SEO-25",
+      "SEO-26",
+      "SEO-29",
+      "SEO-34"
+    ],
+    "source_urls": [
+      "https://www.tampabayobserver.com/awards/rules/",
+      "https://www.nshoremag.com/bons-faq/",
+      "https://lnpmediagroup.voterfly.com/Contest-rules",
+      "https://help.woobox.com/articles/pages/",
+      "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+      "https://help.woobox.com/articles/voting-options/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  },
+  {
+    "title": "Nominated for an Award? What to Do Before Voting Opens",
+    "slug": "nominated-award-before-voting-opens",
+    "reader": "New finalist preparing to ask for votes",
+    "outline": [
+      "Nomination confirmation versus a live ballot",
+      "Confirm the finalist name and voting dates",
+      "Test the new ballot link",
+      "Prepare a short customer message",
+      "Retire the old nomination link",
+      "Ask for support for the actual voting round"
+    ],
+    "links": [
+      "/blog/which-contest-link-to-send/",
+      "/blog/contest-voting-closes-today/"
+    ],
+    "cta": "Share the official finalist link once voting opens",
+    "source_match": "nomination",
+    "candidate_ids": [
+      "SEO-10"
+    ],
+    "source_urls": [
+      "https://www.otsegofoundation.org/back-to-school-community-choice-grants/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  },
+  {
+    "title": "Need Votes for a Video Contest? Start With a Link People Can Watch",
+    "slug": "video-contest-votes",
+    "reader": "Video or talent entrant seeking viewers and votes",
+    "outline": [
+      "Playback and voting are separate steps",
+      "Test sound, captions and entry access on a phone",
+      "Share the direct approved entry",
+      "Explain where the vote happens",
+      "Tell supporters when the current round closes",
+      "What a video-contest quote needs"
+    ],
+    "links": [
+      "/blog/how-to-get-contest-votes/",
+      "/blog/which-contest-link-to-send/"
+    ],
+    "cta": "Send the playable entry and official rules",
+    "source_match": "video",
+    "candidate_ids": [
+      "SEO-07",
+      "SEO-25",
+      "SEO-40"
+    ],
+    "source_urls": [
+      "https://help.woobox.com/articles/video-submissions/",
+      "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+      "https://help.woobox.com/articles/voting-options/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  },
+  {
+    "title": "Your Woobox Entry Is Missing: Is It Ready for Voting?",
+    "slug": "woobox-entry-missing-from-gallery",
+    "reader": "Entrant whose supporters cannot find the photo/video",
+    "outline": [
+      "Submitted does not always mean published",
+      "Check approval and gallery dates",
+      "Confirm the current entry URL",
+      "Ask the organiser with a concise issue report",
+      "Start sharing after the entry is visible"
+    ],
+    "links": [
+      "/blog/photo-contest-votes/",
+      "/blog/contest-votes-not-showing/"
+    ],
+    "cta": "Organiser support first; quote route only for a visible eligible ballot",
+    "source_match": "gallery",
+    "candidate_ids": [
+      "SEO-06",
+      "SEO-07",
+      "SEO-21",
+      "SEO-25",
+      "SEO-26",
+      "SEO-31",
+      "SEO-32",
+      "SEO-34",
+      "SEO-40"
+    ],
+    "source_urls": [
+      "https://help.woobox.com/articles/pages/",
+      "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+      "https://help.woobox.com/articles/video-submissions/",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462174-How-to-create-a-Photo-Contest-on-Instagram",
+      "https://help.cool-tabs.com/hc/en-us/articles/360007462114-How-to-create-a-Voting-Contest-based-on-the-Pick-your-favorite-concept",
+      "https://help.woobox.com/articles/voting-options/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  },
+  {
+    "title": "Public Votes or Judges: What Can Supporters Actually Change?",
+    "slug": "public-votes-and-judges",
+    "reader": "Contestant unsure what determines advancement or winning",
+    "outline": [
+      "Read the selection rule before setting a target",
+      "Votes choosing finalists versus votes choosing winners",
+      "Separate audience award from the main judged prize",
+      "Example: shortlist plus panel decision",
+      "Write an accurate supporter request"
+    ],
+    "links": [
+      "/blog/how-to-get-contest-votes/",
+      "/blog/ask-for-votes-message-examples/"
+    ],
+    "cta": "Send selection rules with the entry; never promise a win",
+    "source_match": "choice",
+    "candidate_ids": [
+      "SEO-10",
+      "SEO-11",
+      "SEO-25",
+      "SEO-28",
+      "SEO-31"
+    ],
+    "source_urls": [
+      "https://www.otsegofoundation.org/back-to-school-community-choice-grants/",
+      "https://vote.worldsbestschool.org/wbsp26/terms",
+      "https://help.woobox.com/articles/voting-options/",
+      "https://help.woobox.com/articles/photo-ugg-contest-setup-guide/",
+      "https://help.woobox.com/articles/disable-facebook-app-authorization/",
+      "https://help.woobox.com/articles/gallery-options/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  },
+  {
+    "title": "A Poll Shared on Social Media: Where Should Supporters Vote?",
+    "slug": "social-poll-or-external-contest-link",
+    "reader": "Entrant receiving social likes but few ballot votes",
+    "outline": [
+      "A like, a native poll answer and an external vote differ",
+      "Identify the final vote destination",
+      "Test the route from social post to entry",
+      "Tell supporters about login or confirmation",
+      "Use one direct link and a short call to action"
+    ],
+    "links": [
+      "/blog/which-contest-link-to-send/",
+      "/blog/email-registration-contest-votes/"
+    ],
+    "cta": "Submit the actual vote URL, not just the announcement",
+    "source_match": "crowdsignal",
+    "candidate_ids": [
+      "SEO-35",
+      "SEO-36"
+    ],
+    "source_urls": [
+      "https://crowdsignal.com/support/creating-a-poll/",
+      "https://crowdsignal.com/faq/"
+    ],
+    "draft_status": "brief_ready; facts and current source edition must be checked while drafting"
+  }
+]
